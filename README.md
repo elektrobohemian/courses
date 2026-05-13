@@ -9,7 +9,7 @@ All materials have been categorized as follows:
 ### Data Management
 
 - [Basic_EvaluationMetrics.ipynb](data_management/Basic_EvaluationMetrics.ipynb) explains various evaluation metrics
-  commonly used in information retrieval ( Precision, Recall and F-Score, nDCG)
+  commonly used in information retrieval (Precision, Recall, F-Score, nDCG)
   
 ![relevance for various documents](img/rel.png)
 
@@ -33,6 +33,7 @@ $$
 
 - [ImageSubtract.ipynb](hwr_ai_risks/ImageSubtract.ipynb) illustrates how AI-based image recognition can be disturbed,
   while staying unnoticeable for humans.
+  
   ![Comparison of images incl. added 'noise' to disturb AI](img/obama_comparison.png)
 
 ### Information Retrieval
