@@ -10,7 +10,9 @@ All materials have been categorized as follows:
 
 - [Basic_EvaluationMetrics.ipynb](data_management/Basic_EvaluationMetrics.ipynb) explains various evaluation metrics
   commonly used in information retrieval ( Precision, Recall and F-Score, nDCG)
-![relevance for various documents](img/rel.png) 
+  
+![relevance for various documents](img/rel.png)
+
 $$
 Precision=\frac{|tp|}{|tp|+|fp|}\equiv\frac{|\mbox{relevant elements in result}|}{|\mbox{elements in result}|},
 $$
