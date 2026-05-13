@@ -1,0 +1,688 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2017-03-22</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY FineReader Engine</softwareName><softwareVersion>11</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles><TextStyle ID="font0" FONTFAMILY="Arial" FONTSIZE="8"/><TextStyle ID="font1" FONTFAMILY="Times New Roman" FONTSIZE="5"/><TextStyle ID="font2" FONTFAMILY="Times New Roman" FONTSIZE="6"/><TextStyle ID="font3" FONTFAMILY="Times New Roman" FONTSIZE="7"/><TextStyle ID="font4" FONTFAMILY="Times New Roman" FONTSIZE="8"/><TextStyle ID="font5" FONTFAMILY="Times New Roman" FONTSIZE="9"/><TextStyle ID="font6" FONTFAMILY="Times New Roman" FONTSIZE="10"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3940" WIDTH="2612">
+<TopMargin HEIGHT="524" WIDTH="2612" VPOS="0" HPOS="0">
+</TopMargin>
+<LeftMargin HEIGHT="2224" WIDTH="55" VPOS="524" HPOS="0">
+</LeftMargin>
+<RightMargin HEIGHT="2224" WIDTH="962" VPOS="524" HPOS="1650">
+</RightMargin>
+<BottomMargin HEIGHT="1192" WIDTH="2612" VPOS="2748" HPOS="0">
+<TextBlock ID="Page1_Block1" HEIGHT="51" WIDTH="64" VPOS="3418" HPOS="862" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="35" WIDTH="46" VPOS="3426" HPOS="871"><String STYLE="bold" WC="0.5299999714" CONTENT="89" HEIGHT="35" WIDTH="46" VPOS="3426" HPOS="871"/></TextLine>
+</TextBlock>
+</BottomMargin>
+<PrintSpace HEIGHT="2224" WIDTH="1595" VPOS="524" HPOS="55">
+<ComposedBlock ID="Page1_Block2" HEIGHT="1384" WIDTH="1592" VPOS="524" HPOS="56" TYPE="container"><Shape><Polygon POINTS="65,527 1653,527 1653,1908 65,1908 65,527"/></Shape>
+<ComposedBlock ID="Page1_Block3" HEIGHT="651" WIDTH="817" VPOS="524" HPOS="475" TYPE="container"><Shape><Polygon POINTS="484,527 1299,527 1299,1176 484,1176 484,527"/></Shape>
+<TextBlock ID="Page1_Block4" HEIGHT="70" WIDTH="815" VPOS="524" HPOS="475" language="de" STYLEREFS="font6"><Shape><Polygon POINTS="484,527 1298,527 1298,595 484,595 484,527"/></Shape>
+<TextLine HEIGHT="54" WIDTH="799" VPOS="532" HPOS="483"><String STYLE="bold" WC="0.2771428525" CONTENT="Xöfuuti" HEIGHT="45" WIDTH="149" VPOS="541" HPOS="483"/><SP WIDTH="30" VPOS="538" HPOS="632"/><String STYLE="bold" WC="0.226666674" CONTENT="5er" HEIGHT="40" WIDTH="61" VPOS="537" HPOS="662"/><SP WIDTH="27" VPOS="537" HPOS="723"/><String STYLE="bold" WC="0.3666666746" CONTENT="deutschen" HEIGHT="46" WIDTH="180" VPOS="537" HPOS="750"/><SP WIDTH="27" VPOS="538" HPOS="930"/><String STYLE="bold" WC="0.5799999833" CONTENT="Samaufgübe" HEIGHT="48" WIDTH="264" VPOS="532" HPOS="957"/><SP WIDTH="25" VPOS="533" HPOS="1221"/><String STYLE="bold" WC="0.6100000143" CONTENT="3." HEIGHT="36" WIDTH="36" VPOS="533" HPOS="1246"/></TextLine>
+</TextBlock>
+<ComposedBlock ID="Page1_Block5" HEIGHT="580" WIDTH="813" VPOS="595" HPOS="479" TYPE="table">
+<TextBlock ID="Page1_Block6" HEIGHT="47" WIDTH="328" VPOS="596" HPOS="557" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,598 893,598 893,644 565,644 565,598"/></Shape>
+<TextLine HEIGHT="36" WIDTH="138" VPOS="608" HPOS="596"><String STYLEREFS="font4" WC="0.6800000072" CONTENT="Schwarz." HEIGHT="36" WIDTH="138" VPOS="608" HPOS="596"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block7" HEIGHT="90" WIDTH="73" VPOS="596" HPOS="974" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="35" WIDTH="59" VPOS="641" HPOS="988"><String STYLEREFS="font4" WC="0.7033333182" CONTENT="63-" HEIGHT="35" WIDTH="59" VPOS="641" HPOS="988"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block8" HEIGHT="47" WIDTH="244" VPOS="595" HPOS="1047" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1055,598 1299,598 1299,644 1055,644 1055,598"/></Shape>
+<TextLine HEIGHT="34" WIDTH="90" VPOS="603" HPOS="1062"><String STYLEREFS="font4" WC="0.6380000114" CONTENT="Weiß." HEIGHT="34" WIDTH="90" VPOS="603" HPOS="1062"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block9" HEIGHT="44" WIDTH="78" VPOS="643" HPOS="479" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="34" WIDTH="33" VPOS="647" HPOS="512"><String STYLE="bold" WC="1." CONTENT="1" HEIGHT="34" WIDTH="19" VPOS="647" HPOS="512"/><String STYLE="bold" STYLEREFS="font3" WC="1." CONTENT="." HEIGHT="7" WIDTH="8" VPOS="674" HPOS="537"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block10" HEIGHT="45" WIDTH="328" VPOS="642" HPOS="557" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,644 893,644 893,688 565,688 565,644"/></Shape>
+<TextLine HEIGHT="42" WIDTH="210" VPOS="644" HPOS="571"><String STYLEREFS="font4" WC="0.5099999905" CONTENT="D" HEIGHT="30" WIDTH="31" VPOS="649" HPOS="571"/><SP WIDTH="25" VPOS="648" HPOS="603"/><String STYLEREFS="font4" WC="0.7350000143" CONTENT="4d—5e," HEIGHT="42" WIDTH="152" VPOS="644" HPOS="629"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block11" HEIGHT="44" WIDTH="89" VPOS="642" HPOS="885" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="644" HPOS="928"><String STYLEREFS="font4" WC="0.6499999762" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="644" HPOS="928"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block12" HEIGHT="45" WIDTH="244" VPOS="641" HPOS="1047" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1055,644 1299,644 1299,688 1055,688 1055,644"/></Shape>
+<TextLine HEIGHT="43" WIDTH="111" VPOS="640" HPOS="1047"><String STYLEREFS="font4" WC="0.5460000038" CONTENT="-4df," HEIGHT="43" WIDTH="111" VPOS="640" HPOS="1047"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block13" HEIGHT="48" WIDTH="78" VPOS="687" HPOS="479" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="33" WIDTH="31" VPOS="696" HPOS="512"><String STYLEREFS="font4" WC="0.4650000036" CONTENT="2." HEIGHT="33" WIDTH="31" VPOS="696" HPOS="512"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block14" HEIGHT="49" WIDTH="328" VPOS="686" HPOS="557" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,688 893,688 893,736 565,736 565,688"/></Shape>
+<TextLine HEIGHT="40" WIDTH="151" VPOS="693" HPOS="571"><String STYLEREFS="font4" WC="0.8666666746" CONTENT="8d—7s," HEIGHT="40" WIDTH="151" VPOS="693" HPOS="571"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block15" HEIGHT="48" WIDTH="89" VPOS="686" HPOS="885" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="692" HPOS="927"><String STYLEREFS="font4" WC="0.25" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="692" HPOS="927"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block16" HEIGHT="48" WIDTH="73" VPOS="686" HPOS="974" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="34" WIDTH="61" VPOS="690" HPOS="986"><String STYLEREFS="font4" WC="0.8733333349" CONTENT="83-" HEIGHT="34" WIDTH="61" VPOS="690" HPOS="986"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block17" HEIGHT="49" WIDTH="244" VPOS="685" HPOS="1047" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1055,688 1299,688 1299,736 1055,736 1055,688"/></Shape>
+<TextLine HEIGHT="46" WIDTH="110" VPOS="688" HPOS="1047"><String STYLEREFS="font4" WC="0.574000001" CONTENT="-6df," HEIGHT="46" WIDTH="110" VPOS="688" HPOS="1047"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block18" HEIGHT="50" WIDTH="78" VPOS="735" HPOS="479" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="35" WIDTH="30" VPOS="742" HPOS="512"><String STYLEREFS="font4" WC="0.8849999905" CONTENT="3." HEIGHT="35" WIDTH="30" VPOS="742" HPOS="512"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block19" HEIGHT="51" WIDTH="328" VPOS="734" HPOS="557" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,736 893,736 893,786 565,786 565,736"/></Shape>
+<TextLine HEIGHT="44" WIDTH="199" VPOS="741" HPOS="571"><String STYLEREFS="font4" WC="0.65625" CONTENT="7c—3cff," HEIGHT="44" WIDTH="199" VPOS="741" HPOS="571"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block20" HEIGHT="50" WIDTH="89" VPOS="734" HPOS="885" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="43" WIDTH="45" VPOS="738" HPOS="929"><String STYLEREFS="font4" WC="0.7699999809" CONTENT="7g" HEIGHT="43" WIDTH="45" VPOS="738" HPOS="929"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block21" HEIGHT="51" WIDTH="317" VPOS="733" HPOS="974" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="982,736 1299,736 1299,786 982,786 982,736"/></Shape>
+<TextLine HEIGHT="40" WIDTH="163" VPOS="737" HPOS="978"><String STYLEREFS="font4" WC="0.7566666603" CONTENT="—8h" HEIGHT="33" WIDTH="93" VPOS="738" HPOS="978"/><SP WIDTH="23" VPOS="738" HPOS="1072"/><String STYLEREFS="font4" WC="0.6449999809" CONTENT="D," HEIGHT="39" WIDTH="45" VPOS="738" HPOS="1096"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block22" HEIGHT="45" WIDTH="78" VPOS="785" HPOS="479" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="34" WIDTH="32" VPOS="790" HPOS="510"><String STYLEREFS="font4" WC="0.5199999809" CONTENT="4." HEIGHT="34" WIDTH="32" VPOS="790" HPOS="510"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block23" HEIGHT="46" WIDTH="328" VPOS="784" HPOS="557" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,786 893,786 893,831 565,831 565,786"/></Shape>
+<TextLine HEIGHT="40" WIDTH="150" VPOS="789" HPOS="571"><String STYLEREFS="font4" WC="0.7900000215" CONTENT="3c—2d," HEIGHT="40" WIDTH="150" VPOS="789" HPOS="571"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block24" HEIGHT="45" WIDTH="89" VPOS="784" HPOS="885" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="788" HPOS="927"><String STYLEREFS="font4" WC="0.2800000012" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="788" HPOS="927"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block25" HEIGHT="45" WIDTH="73" VPOS="784" HPOS="974" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="35" WIDTH="60" VPOS="785" HPOS="987"><String STYLEREFS="font4" WC="0.6200000048" CONTENT="8h-" HEIGHT="35" WIDTH="60" VPOS="785" HPOS="987"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block26" HEIGHT="46" WIDTH="244" VPOS="783" HPOS="1047" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1055,786 1299,786 1299,831 1055,831 1055,786"/></Shape>
+<TextLine HEIGHT="45" WIDTH="95" VPOS="783" HPOS="1047"><String STYLEREFS="font4" WC="0.6999999881" CONTENT="-7g," HEIGHT="45" WIDTH="95" VPOS="783" HPOS="1047"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block27" HEIGHT="48" WIDTH="78" VPOS="830" HPOS="479" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="36" WIDTH="33" VPOS="838" HPOS="512"><String STYLEREFS="font4" WC="0.8999999762" CONTENT="5." HEIGHT="36" WIDTH="33" VPOS="838" HPOS="512"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block28" HEIGHT="49" WIDTH="328" VPOS="829" HPOS="557" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,831 893,831 893,879 565,879 565,831"/></Shape>
+<TextLine HEIGHT="40" WIDTH="209" VPOS="836" HPOS="572"><String STYLEREFS="font4" WC="0.90200001" CONTENT="2d—le" HEIGHT="35" WIDTH="138" VPOS="836" HPOS="572"/><SP WIDTH="24" VPOS="837" HPOS="711"/><String STYLEREFS="font4" WC="0.5350000262" CONTENT="D," HEIGHT="38" WIDTH="45" VPOS="837" HPOS="736"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block29" HEIGHT="48" WIDTH="89" VPOS="829" HPOS="885" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="32" WIDTH="33" VPOS="835" HPOS="927"><String STYLEREFS="font4" WC="0.2599999905" CONTENT="D" HEIGHT="32" WIDTH="33" VPOS="835" HPOS="927"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block30" HEIGHT="48" WIDTH="73" VPOS="829" HPOS="974" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="41" WIDTH="58" VPOS="834" HPOS="989"><String STYLEREFS="font4" WC="0.5233333111" CONTENT="7g-" HEIGHT="41" WIDTH="58" VPOS="834" HPOS="989"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block31" HEIGHT="49" WIDTH="244" VPOS="828" HPOS="1047" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1055,831 1299,831 1299,879 1055,879 1055,831"/></Shape>
+<TextLine HEIGHT="41" WIDTH="84" VPOS="831" HPOS="1047"><String STYLEREFS="font4" WC="0.5450000167" CONTENT="-63," HEIGHT="41" WIDTH="84" VPOS="831" HPOS="1047"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block32" HEIGHT="47" WIDTH="78" VPOS="878" HPOS="479" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="35" WIDTH="31" VPOS="885" HPOS="512"><String STYLEREFS="font4" WC="1." CONTENT="6." HEIGHT="35" WIDTH="31" VPOS="885" HPOS="512"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block33" HEIGHT="48" WIDTH="328" VPOS="877" HPOS="557" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,879 893,879 893,926 565,926 565,879"/></Shape>
+<TextLine HEIGHT="36" WIDTH="209" VPOS="885" HPOS="571"><String STYLEREFS="font4" WC="0.2700000107" CONTENT="D" HEIGHT="30" WIDTH="31" VPOS="888" HPOS="571"/><SP WIDTH="30" VPOS="888" HPOS="603"/><String STYLEREFS="font4" WC="0.6800000072" CONTENT="le—2d," HEIGHT="36" WIDTH="146" VPOS="885" HPOS="634"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block34" HEIGHT="47" WIDTH="89" VPOS="877" HPOS="885" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="883" HPOS="927"><String STYLEREFS="font4" WC="0.2599999905" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="883" HPOS="927"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block35" HEIGHT="47" WIDTH="73" VPOS="877" HPOS="974" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="982,879 1055,879 1055,926 982,926 982,879"/></Shape>
+<TextLine HEIGHT="39" WIDTH="60" VPOS="881" HPOS="987"><String STYLEREFS="font4" WC="0.8650000095" CONTENT="63,-" HEIGHT="39" WIDTH="60" VPOS="881" HPOS="987"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block36" HEIGHT="48" WIDTH="244" VPOS="876" HPOS="1047" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1055,879 1299,879 1299,926 1055,926 1055,879"/></Shape>
+<TextLine HEIGHT="43" WIDTH="94" VPOS="878" HPOS="1047"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="—5s," HEIGHT="43" WIDTH="94" VPOS="878" HPOS="1047"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block37" HEIGHT="47" WIDTH="79" VPOS="925" HPOS="479" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="487,926 565,926 565,973 487,973 487,926"/></Shape>
+<TextLine HEIGHT="35" WIDTH="32" VPOS="934" HPOS="512"><String STYLEREFS="font4" WC="0.6100000143" CONTENT="7." HEIGHT="35" WIDTH="32" VPOS="934" HPOS="512"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block38" HEIGHT="48" WIDTH="329" VPOS="924" HPOS="557" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,926 893,926 893,973 565,973 565,926"/></Shape>
+<TextLine HEIGHT="41" WIDTH="210" VPOS="931" HPOS="571"><String STYLEREFS="font4" WC="0.6600000262" CONTENT="D" HEIGHT="31" WIDTH="33" VPOS="935" HPOS="571"/><SP WIDTH="26" VPOS="932" HPOS="604"/><String STYLEREFS="font4" WC="0.875" CONTENT="2d—3e," HEIGHT="41" WIDTH="151" VPOS="931" HPOS="630"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block39" HEIGHT="47" WIDTH="90" VPOS="924" HPOS="885" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="893,926 982,926 982,973 893,973 893,926"/></Shape>
+<TextLine HEIGHT="31" WIDTH="34" VPOS="931" HPOS="926"><String STYLEREFS="font4" WC="0.2700000107" CONTENT="D" HEIGHT="31" WIDTH="34" VPOS="931" HPOS="926"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block40" HEIGHT="47" WIDTH="74" VPOS="924" HPOS="974" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="982,926 1055,926 1055,973 982,973 982,926"/></Shape>
+<TextLine HEIGHT="33" WIDTH="62" VPOS="930" HPOS="986"><String STYLEREFS="font4" WC="0.9499999881" CONTENT="5e-" HEIGHT="33" WIDTH="62" VPOS="930" HPOS="986"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block41" HEIGHT="48" WIDTH="245" VPOS="923" HPOS="1047" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1055,926 1299,926 1299,973 1055,973 1055,926"/></Shape>
+<TextLine HEIGHT="42" WIDTH="83" VPOS="926" HPOS="1047"><String STYLEREFS="font4" WC="0.7250000238" CONTENT="-63," HEIGHT="42" WIDTH="83" VPOS="926" HPOS="1047"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block42" HEIGHT="49" WIDTH="78" VPOS="972" HPOS="480" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="35" WIDTH="32" VPOS="982" HPOS="512"><String STYLEREFS="font4" WC="1." CONTENT="8." HEIGHT="35" WIDTH="32" VPOS="982" HPOS="512"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block43" HEIGHT="50" WIDTH="328" VPOS="971" HPOS="558" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,973 893,973 893,1022 565,1022 565,973"/></Shape>
+<TextLine HEIGHT="42" WIDTH="199" VPOS="978" HPOS="570"><String STYLEREFS="font4" WC="0.349999994" CONTENT="D" HEIGHT="32" WIDTH="32" VPOS="982" HPOS="570"/><SP WIDTH="26" VPOS="980" HPOS="603"/><String STYLEREFS="font4" WC="0.6283333302" CONTENT="3?—43," HEIGHT="42" WIDTH="139" VPOS="978" HPOS="630"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block44" HEIGHT="49" WIDTH="89" VPOS="971" HPOS="886" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="979" HPOS="928"><String STYLEREFS="font4" WC="0.2899999917" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="979" HPOS="928"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block45" HEIGHT="49" WIDTH="73" VPOS="971" HPOS="975" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="982,973 1055,973 1055,1022 982,1022 982,973"/></Shape>
+<TextLine HEIGHT="34" WIDTH="59" VPOS="976" HPOS="989"><String STYLEREFS="font4" WC="0.8999999762" CONTENT="63-" HEIGHT="34" WIDTH="59" VPOS="976" HPOS="989"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block46" HEIGHT="50" WIDTH="244" VPOS="970" HPOS="1048" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1055,973 1299,973 1299,1022 1055,1022 1055,973"/></Shape>
+<TextLine HEIGHT="44" WIDTH="85" VPOS="975" HPOS="1048"><String STYLEREFS="font4" WC="0.4675000012" CONTENT="-7g." HEIGHT="44" WIDTH="85" VPOS="975" HPOS="1048"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block47" HEIGHT="50" WIDTH="78" VPOS="1021" HPOS="480" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="34" WIDTH="32" VPOS="1029" HPOS="511"><String STYLEREFS="font4" WC="1." CONTENT="9." HEIGHT="34" WIDTH="32" VPOS="1029" HPOS="511"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block48" HEIGHT="51" WIDTH="328" VPOS="1020" HPOS="558" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,1022 893,1022 893,1072 565,1072 565,1022"/></Shape>
+<TextLine HEIGHT="44" WIDTH="201" VPOS="1027" HPOS="570"><String STYLEREFS="font4" WC="0.3199999928" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1030" HPOS="570"/><SP WIDTH="25" VPOS="1028" HPOS="602"/><String STYLEREFS="font4" WC="0.5666666627" CONTENT="43—5g," HEIGHT="44" WIDTH="143" VPOS="1027" HPOS="628"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block49" HEIGHT="50" WIDTH="89" VPOS="1020" HPOS="886" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="1027" HPOS="928"><String STYLEREFS="font4" WC="0.2700000107" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="1027" HPOS="928"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block50" HEIGHT="50" WIDTH="73" VPOS="1020" HPOS="975" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="982,1022 1055,1022 1055,1072 982,1072 982,1022"/></Shape>
+<TextLine HEIGHT="43" WIDTH="58" VPOS="1025" HPOS="990"><String STYLEREFS="font4" WC="0.5500000119" CONTENT="7" HEIGHT="33" WIDTH="18" VPOS="1025" HPOS="990"/><SP WIDTH="4" VPOS="1025" HPOS="1009"/><String STYLEREFS="font4" WC="0.5" CONTENT="g-" HEIGHT="31" WIDTH="34" VPOS="1037" HPOS="1014"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block51" HEIGHT="51" WIDTH="244" VPOS="1019" HPOS="1048" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1055,1022 1299,1022 1299,1072 1055,1072 1055,1022"/></Shape>
+<TextLine HEIGHT="42" WIDTH="94" VPOS="1023" HPOS="1048"><String STYLEREFS="font4" WC="0.6175000072" CONTENT="-8h," HEIGHT="42" WIDTH="94" VPOS="1023" HPOS="1048"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block52" HEIGHT="46" WIDTH="78" VPOS="1071" HPOS="480" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="36" WIDTH="55" VPOS="1076" HPOS="488"><String STYLEREFS="font4" WC="1." CONTENT="10." HEIGHT="36" WIDTH="55" VPOS="1076" HPOS="488"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block53" HEIGHT="47" WIDTH="328" VPOS="1070" HPOS="558" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,1072 893,1072 893,1118 565,1118 565,1072"/></Shape>
+<TextLine HEIGHT="45" WIDTH="201" VPOS="1074" HPOS="570"><String STYLEREFS="font4" WC="0.3700000048" CONTENT="D" HEIGHT="30" WIDTH="31" VPOS="1078" HPOS="570"/><SP WIDTH="26" VPOS="1076" HPOS="602"/><String STYLEREFS="font4" WC="0.7866666913" CONTENT="5g—63," HEIGHT="45" WIDTH="142" VPOS="1074" HPOS="629"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block54" HEIGHT="46" WIDTH="89" VPOS="1070" HPOS="886" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="31" VPOS="1075" HPOS="929"><String STYLEREFS="font4" WC="0.3000000119" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1075" HPOS="929"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block55" HEIGHT="46" WIDTH="73" VPOS="1070" HPOS="975" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="56" VPOS="1075" HPOS="992"><String STYLEREFS="font4" WC="0.5299999714" CONTENT="8h-" HEIGHT="31" WIDTH="56" VPOS="1075" HPOS="992"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block56" HEIGHT="47" WIDTH="244" VPOS="1069" HPOS="1048" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1055,1072 1299,1072 1299,1118 1055,1118 1055,1072"/></Shape>
+<TextLine HEIGHT="41" WIDTH="121" VPOS="1071" HPOS="1048"><String STYLEREFS="font4" WC="0.7659999728" CONTENT="—5ef," HEIGHT="41" WIDTH="121" VPOS="1071" HPOS="1048"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block57" HEIGHT="58" WIDTH="78" VPOS="1117" HPOS="480" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="37" WIDTH="55" VPOS="1124" HPOS="488"><String STYLEREFS="font4" WC="1." CONTENT="11." HEIGHT="37" WIDTH="55" VPOS="1124" HPOS="488"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block58" HEIGHT="59" WIDTH="328" VPOS="1116" HPOS="558" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="565,1118 893,1118 893,1176 565,1176 565,1118"/></Shape>
+<TextLine HEIGHT="35" WIDTH="141" VPOS="1123" HPOS="570"><String STYLEREFS="font4" WC="0.6259999871" CONTENT="8b—7c" HEIGHT="35" WIDTH="141" VPOS="1123" HPOS="570"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block59" HEIGHT="58" WIDTH="89" VPOS="1116" HPOS="886" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="1123" HPOS="929"><String STYLEREFS="font4" WC="0.4600000083" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="1123" HPOS="929"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block60" HEIGHT="58" WIDTH="73" VPOS="1116" HPOS="975" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="33" WIDTH="59" VPOS="1121" HPOS="989"><String STYLEREFS="font4" WC="0.9800000191" CONTENT="5e-" HEIGHT="33" WIDTH="59" VPOS="1121" HPOS="989"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block61" HEIGHT="59" WIDTH="244" VPOS="1115" HPOS="1048" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1055,1118 1299,1118 1299,1176 1055,1176 1055,1118"/></Shape>
+<TextLine HEIGHT="56" WIDTH="236" VPOS="1105" HPOS="1048"><String STYLE="bold" STYLEREFS="font4" WC="0.7149999738" CONTENT="—8b-f," HEIGHT="56" WIDTH="117" VPOS="1105" HPOS="1048"/><SP WIDTH="50" VPOS="1129" HPOS="1166"/><String STYLE="bold" STYLEREFS="font4" WC="0.6966666579" CONTENT="und" HEIGHT="35" WIDTH="67" VPOS="1120" HPOS="1217"/></TextLine>
+</TextBlock></ComposedBlock></ComposedBlock>
+<TextBlock ID="Page1_Block62" HEIGHT="62" WIDTH="171" VPOS="1160" HPOS="970" language="de" STYLEREFS="font4"><Shape><Polygon POINTS="977,1163 1148,1163 1148,1224 977,1224 977,1163"/></Shape>
+<TextLine HEIGHT="46" WIDTH="155" VPOS="1168" HPOS="978"><String STYLE="bold" WC="0.7350000143" CONTENT="gewinnt." HEIGHT="46" WIDTH="155" VPOS="1168" HPOS="978"/></TextLine>
+</TextBlock>
+<ComposedBlock ID="Page1_Block63" HEIGHT="666" WIDTH="1590" VPOS="1242" HPOS="58" TYPE="container"><Shape><Polygon POINTS="65,1246 1653,1246 1653,1908 65,1908 65,1246"/></Shape>
+<TextBlock ID="Page1_Block64" HEIGHT="68" WIDTH="822" VPOS="1243" HPOS="475" language="de" STYLEREFS="font6"><Shape><Polygon POINTS="482,1246 1304,1246 1304,1312 482,1312 482,1246"/></Shape>
+<TextLine HEIGHT="52" WIDTH="806" VPOS="1251" HPOS="483"><String STYLE="bold" WC="0.6349999905" CONTENT="Lösung" HEIGHT="47" WIDTH="149" VPOS="1256" HPOS="483"/><SP WIDTH="27" VPOS="1254" HPOS="633"/><String STYLE="bold" WC="0.7566666603" CONTENT="5er" HEIGHT="41" WIDTH="62" VPOS="1253" HPOS="661"/><SP WIDTH="25" VPOS="1252" HPOS="724"/><String STYLE="bold" WC="0.4977777898" CONTENT="deutschen" HEIGHT="48" WIDTH="182" VPOS="1252" HPOS="750"/><SP WIDTH="25" VPOS="1252" HPOS="933"/><String STYLE="bold" WC="0.449000001" CONTENT="Dsmaufgabe" HEIGHT="48" WIDTH="265" VPOS="1251" HPOS="959"/><SP WIDTH="24" VPOS="1253" HPOS="1225"/><String STYLE="bold" WC="0.5049999952" CONTENT="4." HEIGHT="36" WIDTH="39" VPOS="1253" HPOS="1250"/></TextLine>
+</TextBlock>
+<ComposedBlock ID="Page1_Block65" HEIGHT="597" WIDTH="1590" VPOS="1311" HPOS="58" TYPE="table">
+<TextBlock ID="Page1_Block66" HEIGHT="61" WIDTH="79" VPOS="1315" HPOS="191" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="198,1315 276,1315 276,1376 198,1376 198,1315"/></Shape>
+<TextLine HEIGHT="33" WIDTH="28" VPOS="1331" HPOS="228"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="I." HEIGHT="33" WIDTH="28" VPOS="1331" HPOS="228"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block67" HEIGHT="63" WIDTH="634" VPOS="1313" HPOS="269" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="276,1315 909,1315 909,1376 276,1376 276,1315"/></Shape>
+<TextLine HEIGHT="47" WIDTH="424" VPOS="1327" HPOS="285"><String STYLE="bold" STYLEREFS="font4" WC="0.4050000012" CONTENT="Wenn" HEIGHT="37" WIDTH="107" VPOS="1329" HPOS="285"/><SP WIDTH="25" VPOS="1329" HPOS="393"/><String STYLE="bold" STYLEREFS="font4" WC="0.6474999785" CONTENT="Weiß" HEIGHT="42" WIDTH="95" VPOS="1329" HPOS="419"/><SP WIDTH="25" VPOS="1328" HPOS="514"/><String STYLE="bold" STYLEREFS="font4" WC="0.8737499714" CONTENT="beginnt&quot;" HEIGHT="46" WIDTH="170" VPOS="1327" HPOS="539"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block68" HEIGHT="62" WIDTH="75" VPOS="1312" HPOS="1069" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1315 1150,1315 1150,1376 1076,1376 1076,1315"/></Shape>
+<TextLine HEIGHT="36" WIDTH="47" VPOS="1324" HPOS="1073"><String STYLE="bold" STYLEREFS="font4" WC="0.7699999809" CONTENT="II." HEIGHT="36" WIDTH="47" VPOS="1324" HPOS="1073"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block69" HEIGHT="61" WIDTH="292" VPOS="1312" HPOS="1143" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1150,1315 1441,1315 1441,1376 1150,1376 1150,1315"/></Shape>
+<TextLine HEIGHT="43" WIDTH="278" VPOS="1320" HPOS="1147"><String STYLE="bold" STYLEREFS="font4" WC="0.4774999917" CONTENT="Wenn" HEIGHT="36" WIDTH="110" VPOS="1323" HPOS="1147"/><SP WIDTH="25" VPOS="1320" HPOS="1258"/><String STYLE="bold" STYLEREFS="font4" WC="0.7350000143" CONTENT="Schwär" HEIGHT="43" WIDTH="141" VPOS="1320" HPOS="1284"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block70" HEIGHT="62" WIDTH="213" VPOS="1311" HPOS="1434" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1315 1653,1315 1653,1376 1441,1376 1441,1315"/></Shape>
+<TextLine HEIGHT="46" WIDTH="149" VPOS="1320" HPOS="1466"><String STYLE="bold" STYLEREFS="font4" WC="0.5662500262" CONTENT="beginnt:" HEIGHT="46" WIDTH="149" VPOS="1320" HPOS="1466"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block71" HEIGHT="46" WIDTH="270" VPOS="1375" HPOS="192" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="198,1376 468,1376 468,1421 198,1421 198,1376"/></Shape>
+<TextLine HEIGHT="32" WIDTH="89" VPOS="1388" HPOS="198"><String STYLEREFS="font4" WC="0.4379999936" CONTENT="Weiß." HEIGHT="32" WIDTH="89" VPOS="1388" HPOS="198"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block72" HEIGHT="45" WIDTH="82" VPOS="1375" HPOS="550" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="556,1376 638,1376 638,1421 556,1421 556,1376"/></Shape>
+<TextLine HEIGHT="28" WIDTH="24" VPOS="1387" HPOS="607"><String STYLEREFS="font4" WC="0.2399999946" CONTENT="g" HEIGHT="28" WIDTH="24" VPOS="1387" HPOS="607"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block73" HEIGHT="46" WIDTH="271" VPOS="1374" HPOS="632" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="638,1376 909,1376 909,1421 638,1421 638,1376"/></Shape>
+<TextLine HEIGHT="35" WIDTH="110" VPOS="1385" HPOS="637"><String STYLEREFS="font4" WC="0.6842857003" CONTENT="chwarz." HEIGHT="35" WIDTH="110" VPOS="1385" HPOS="637"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block74" HEIGHT="46" WIDTH="275" VPOS="1373" HPOS="1070" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1376 1351,1376 1351,1421 1076,1421 1076,1376"/></Shape>
+<TextLine HEIGHT="29" WIDTH="92" VPOS="1382" HPOS="1074"><String STYLEREFS="font4" WC="0.6019999981" CONTENT="Wein." HEIGHT="29" WIDTH="92" VPOS="1382" HPOS="1074"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block75" HEIGHT="46" WIDTH="212" VPOS="1372" HPOS="1435" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1376 1653,1376 1653,1421 1441,1421 1441,1376"/></Shape>
+<TextLine HEIGHT="35" WIDTH="141" VPOS="1380" HPOS="1498"><String STYLEREFS="font4" WC="0.5087500215" CONTENT="Schwarz." HEIGHT="35" WIDTH="141" VPOS="1380" HPOS="1498"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block76" HEIGHT="42" WIDTH="74" VPOS="1421" HPOS="59" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="32" WIDTH="30" VPOS="1426" HPOS="92"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="1." HEIGHT="32" WIDTH="30" VPOS="1426" HPOS="92"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block77" HEIGHT="42" WIDTH="59" VPOS="1421" HPOS="133" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="1426" HPOS="148"><String STYLE="bold" STYLEREFS="font4" WC="0.2800000012" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="1426" HPOS="148"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block78" HEIGHT="42" WIDTH="78" VPOS="1421" HPOS="192" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="198,1421 276,1421 276,1463 198,1463 198,1421"/></Shape>
+<TextLine HEIGHT="33" WIDTH="62" VPOS="1425" HPOS="208"><String STYLE="bold" STYLEREFS="font4" WC="0.6833333373" CONTENT="6d-" HEIGHT="33" WIDTH="62" VPOS="1425" HPOS="208"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block79" HEIGHT="43" WIDTH="192" VPOS="1420" HPOS="270" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="276,1421 468,1421 468,1463 276,1463 276,1421"/></Shape>
+<TextLine HEIGHT="41" WIDTH="87" VPOS="1424" HPOS="270"><String STYLEREFS="font4" WC="0.9975000024" CONTENT="—5c," HEIGHT="41" WIDTH="87" VPOS="1424" HPOS="270"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block80" HEIGHT="42" WIDTH="88" VPOS="1420" HPOS="462" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="30" WIDTH="31" VPOS="1426" HPOS="507"><String STYLE="bold" STYLEREFS="font4" WC="0.4300000072" CONTENT="D" HEIGHT="30" WIDTH="31" VPOS="1426" HPOS="507"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block81" HEIGHT="42" WIDTH="82" VPOS="1420" HPOS="550" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="556,1421 638,1421 638,1463 556,1463 556,1421"/></Shape>
+<TextLine HEIGHT="35" WIDTH="67" VPOS="1423" HPOS="565"><String STYLE="bold" STYLEREFS="font4" WC="0.8933333158" CONTENT="8d-" HEIGHT="35" WIDTH="67" VPOS="1423" HPOS="565"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block82" HEIGHT="43" WIDTH="271" VPOS="1419" HPOS="632" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="638,1421 909,1421 909,1463 638,1463 638,1421"/></Shape>
+<TextLine HEIGHT="40" WIDTH="85" VPOS="1423" HPOS="632"><String STYLEREFS="font4" WC="0.7024999857" CONTENT="-7c," HEIGHT="40" WIDTH="85" VPOS="1423" HPOS="632"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block83" HEIGHT="42" WIDTH="112" VPOS="1419" HPOS="903" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="36" WIDTH="34" VPOS="1420" HPOS="971"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="1." HEIGHT="36" WIDTH="34" VPOS="1420" HPOS="971"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block84" HEIGHT="42" WIDTH="55" VPOS="1419" HPOS="1015" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1021,1421 1076,1421 1076,1463 1021,1463 1021,1421"/></Shape>
+<TextLine HEIGHT="31" WIDTH="31" VPOS="1421" HPOS="1031"><String STYLE="bold" STYLEREFS="font4" WC="0.349999994" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1421" HPOS="1031"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block85" HEIGHT="43" WIDTH="74" VPOS="1418" HPOS="1070" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1421 1150,1421 1150,1463 1076,1463 1076,1421"/></Shape>
+<TextLine HEIGHT="33" WIDTH="45" VPOS="1420" HPOS="1090"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="8d" HEIGHT="33" WIDTH="45" VPOS="1420" HPOS="1090"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block86" HEIGHT="42" WIDTH="201" VPOS="1418" HPOS="1144" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="40" WIDTH="98" VPOS="1418" HPOS="1144"><String STYLEREFS="font4" WC="0.8299999833" CONTENT="-7s." HEIGHT="40" WIDTH="98" VPOS="1418" HPOS="1144"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block87" HEIGHT="42" WIDTH="90" VPOS="1418" HPOS="1345" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="1420" HPOS="1389"><String STYLE="bold" STYLEREFS="font4" WC="0.25" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="1420" HPOS="1389"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block88" HEIGHT="43" WIDTH="97" VPOS="1417" HPOS="1435" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1421 1538,1421 1538,1463 1441,1463 1441,1421"/></Shape>
+<TextLine HEIGHT="35" WIDTH="81" VPOS="1417" HPOS="1451"><String STYLEREFS="font4" WC="0.9900000095" CONTENT="63—" HEIGHT="35" WIDTH="81" VPOS="1417" HPOS="1451"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block89" HEIGHT="42" WIDTH="115" VPOS="1417" HPOS="1532" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="38" WIDTH="54" VPOS="1418" HPOS="1537"><String STYLEREFS="font4" WC="0.9666666389" CONTENT="5e," HEIGHT="38" WIDTH="54" VPOS="1418" HPOS="1537"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block90" HEIGHT="48" WIDTH="74" VPOS="1463" HPOS="59" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="32" WIDTH="31" VPOS="1473" HPOS="91"><String STYLE="bold" STYLEREFS="font4" WC="0.9850000143" CONTENT="2." HEIGHT="32" WIDTH="31" VPOS="1473" HPOS="91"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block91" HEIGHT="48" WIDTH="59" VPOS="1463" HPOS="133" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="30" WIDTH="31" VPOS="1474" HPOS="149"><String STYLE="bold" STYLEREFS="font4" WC="0.3100000024" CONTENT="D" HEIGHT="30" WIDTH="31" VPOS="1474" HPOS="149"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block92" HEIGHT="48" WIDTH="78" VPOS="1463" HPOS="192" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="198,1463 276,1463 276,1511 198,1511 198,1463"/></Shape>
+<TextLine HEIGHT="34" WIDTH="62" VPOS="1472" HPOS="208"><String STYLEREFS="font4" WC="0.5866666436" CONTENT="5c-" HEIGHT="34" WIDTH="62" VPOS="1472" HPOS="208"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block93" HEIGHT="49" WIDTH="192" VPOS="1462" HPOS="270" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="276,1463 468,1463 468,1511 276,1511 276,1463"/></Shape>
+<TextLine HEIGHT="42" WIDTH="87" VPOS="1471" HPOS="270"><String STYLE="bold" STYLEREFS="font4" WC="0.8874999881" CONTENT="-4b," HEIGHT="42" WIDTH="87" VPOS="1471" HPOS="270"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block94" HEIGHT="48" WIDTH="88" VPOS="1462" HPOS="462" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="1473" HPOS="506"><String STYLE="bold" STYLEREFS="font4" WC="0.4199999869" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="1473" HPOS="506"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block95" HEIGHT="48" WIDTH="82" VPOS="1462" HPOS="550" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="33" WIDTH="64" VPOS="1471" HPOS="568"><String STYLEREFS="font4" WC="0.5633333325" CONTENT="7c-" HEIGHT="33" WIDTH="64" VPOS="1471" HPOS="568"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block96" HEIGHT="49" WIDTH="271" VPOS="1461" HPOS="632" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="638,1463 909,1463 909,1511 638,1511 638,1463"/></Shape>
+<TextLine HEIGHT="40" WIDTH="84" VPOS="1470" HPOS="632"><String STYLE="bold" STYLEREFS="font4" WC="0.9775000215" CONTENT="-6b," HEIGHT="40" WIDTH="84" VPOS="1470" HPOS="632"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block97" HEIGHT="48" WIDTH="112" VPOS="1461" HPOS="903" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="33" WIDTH="31" VPOS="1468" HPOS="971"><String STYLE="bold" STYLEREFS="font4" WC="0.8399999738" CONTENT="2." HEIGHT="33" WIDTH="31" VPOS="1468" HPOS="971"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block98" HEIGHT="48" WIDTH="55" VPOS="1461" HPOS="1015" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="31" VPOS="1469" HPOS="1029"><String STYLE="bold" STYLEREFS="font4" WC="0.3400000036" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1469" HPOS="1029"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block99" HEIGHT="49" WIDTH="74" VPOS="1460" HPOS="1070" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1463 1150,1463 1150,1511 1076,1511 1076,1463"/></Shape>
+<TextLine HEIGHT="34" WIDTH="41" VPOS="1466" HPOS="1089"><String STYLEREFS="font4" WC="0.3449999988" CONTENT="7c" HEIGHT="34" WIDTH="41" VPOS="1466" HPOS="1089"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block100" HEIGHT="48" WIDTH="201" VPOS="1460" HPOS="1144" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="40" WIDTH="93" VPOS="1466" HPOS="1144"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="-" HEIGHT="4" WIDTH="18" VPOS="1486" HPOS="1144"/><SP WIDTH="17" VPOS="1466" HPOS="1163"/><String STYLE="bold" STYLEREFS="font4" WC="0.8500000238" CONTENT="6b," HEIGHT="40" WIDTH="56" VPOS="1466" HPOS="1181"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block101" HEIGHT="48" WIDTH="90" VPOS="1460" HPOS="1345" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="32" WIDTH="33" VPOS="1467" HPOS="1389"><String STYLE="bold" STYLEREFS="font4" WC="0.2599999905" CONTENT="v" HEIGHT="32" WIDTH="33" VPOS="1467" HPOS="1389"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block102" HEIGHT="49" WIDTH="97" VPOS="1459" HPOS="1435" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1463 1538,1463 1538,1511 1441,1511 1441,1463"/></Shape>
+<TextLine HEIGHT="33" WIDTH="73" VPOS="1467" HPOS="1449"><String STYLEREFS="font4" WC="0.9533333182" CONTENT="5s-" HEIGHT="33" WIDTH="73" VPOS="1467" HPOS="1449"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block103" HEIGHT="48" WIDTH="115" VPOS="1459" HPOS="1532" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="40" WIDTH="58" VPOS="1464" HPOS="1543"><String STYLE="bold" STYLEREFS="font4" WC="0.5233333111" CONTENT="4d," HEIGHT="40" WIDTH="58" VPOS="1464" HPOS="1543"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block104" HEIGHT="48" WIDTH="74" VPOS="1511" HPOS="59" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="33" WIDTH="31" VPOS="1520" HPOS="91"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="3." HEIGHT="33" WIDTH="31" VPOS="1520" HPOS="91"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block105" HEIGHT="48" WIDTH="59" VPOS="1511" HPOS="133" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="31" VPOS="1522" HPOS="149"><String STYLE="bold" STYLEREFS="font4" WC="0.3700000048" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1522" HPOS="149"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block106" HEIGHT="48" WIDTH="78" VPOS="1511" HPOS="192" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="32" WIDTH="62" VPOS="1520" HPOS="208"><String STYLE="bold" STYLEREFS="font4" WC="0.6299999952" CONTENT="4b-" HEIGHT="32" WIDTH="62" VPOS="1520" HPOS="208"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block107" HEIGHT="49" WIDTH="192" VPOS="1510" HPOS="270" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="276,1511 468,1511 468,1559 276,1559 276,1511"/></Shape>
+<TextLine HEIGHT="41" WIDTH="90" VPOS="1519" HPOS="270"><String STYLEREFS="font4" WC="0.6200000048" CONTENT="—5" HEIGHT="35" WIDTH="55" VPOS="1519" HPOS="270"/><SP WIDTH="3" VPOS="1519" HPOS="326"/><String STYLEREFS="font4" WC="0.3799999952" CONTENT="a," HEIGHT="27" WIDTH="30" VPOS="1532" HPOS="330"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block108" HEIGHT="48" WIDTH="88" VPOS="1510" HPOS="462" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="31" VPOS="1521" HPOS="506"><String STYLE="bold" STYLEREFS="font4" WC="0.3600000143" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1521" HPOS="506"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block109" HEIGHT="48" WIDTH="82" VPOS="1510" HPOS="550" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="33" WIDTH="67" VPOS="1519" HPOS="565"><String STYLE="bold" STYLEREFS="font4" WC="0.8166666627" CONTENT="6b-" HEIGHT="33" WIDTH="67" VPOS="1519" HPOS="565"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block110" HEIGHT="49" WIDTH="271" VPOS="1509" HPOS="632" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="638,1511 909,1511 909,1559 638,1559 638,1511"/></Shape>
+<TextLine HEIGHT="41" WIDTH="85" VPOS="1518" HPOS="632"><String STYLEREFS="font4" WC="0.6899999976" CONTENT="-7c," HEIGHT="41" WIDTH="85" VPOS="1518" HPOS="632"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block111" HEIGHT="48" WIDTH="112" VPOS="1509" HPOS="903" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="33" WIDTH="32" VPOS="1517" HPOS="971"><String STYLEREFS="font4" WC="1." CONTENT="3." HEIGHT="33" WIDTH="32" VPOS="1517" HPOS="971"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block112" HEIGHT="48" WIDTH="55" VPOS="1509" HPOS="1015" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="30" WIDTH="32" VPOS="1518" HPOS="1030"><String STYLE="bold" STYLEREFS="font4" WC="0.3899999857" CONTENT="D" HEIGHT="30" WIDTH="32" VPOS="1518" HPOS="1030"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block113" HEIGHT="49" WIDTH="74" VPOS="1508" HPOS="1070" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1511 1150,1511 1150,1559 1076,1559 1076,1511"/></Shape>
+<TextLine HEIGHT="35" WIDTH="44" VPOS="1514" HPOS="1090"><String STYLE="bold" STYLEREFS="font4" WC="0.9049999714" CONTENT="6b" HEIGHT="35" WIDTH="44" VPOS="1514" HPOS="1090"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block114" HEIGHT="48" WIDTH="201" VPOS="1508" HPOS="1144" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="40" WIDTH="97" VPOS="1515" HPOS="1144"><String STYLEREFS="font4" WC="0.6924999952" CONTENT="—7c," HEIGHT="40" WIDTH="97" VPOS="1515" HPOS="1144"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block115" HEIGHT="48" WIDTH="90" VPOS="1508" HPOS="1345" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="1516" HPOS="1389"><String STYLE="bold" STYLEREFS="font4" WC="0.6499999762" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="1516" HPOS="1389"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block116" HEIGHT="49" WIDTH="97" VPOS="1507" HPOS="1435" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1511 1538,1511 1538,1559 1441,1559 1441,1511"/></Shape>
+<TextLine HEIGHT="35" WIDTH="84" VPOS="1513" HPOS="1448"><String STYLE="bold" STYLEREFS="font4" WC="0.8700000048" CONTENT="6d—" HEIGHT="35" WIDTH="84" VPOS="1513" HPOS="1448"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block117" HEIGHT="48" WIDTH="115" VPOS="1507" HPOS="1532" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="38" WIDTH="56" VPOS="1514" HPOS="1545"><String STYLEREFS="font4" WC="0.7966666818" CONTENT="5c," HEIGHT="38" WIDTH="56" VPOS="1514" HPOS="1545"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block118" HEIGHT="49" WIDTH="74" VPOS="1559" HPOS="59" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="33" WIDTH="32" VPOS="1568" HPOS="90"><String STYLE="bold" STYLEREFS="font4" WC="0.275000006" CONTENT="4." HEIGHT="33" WIDTH="32" VPOS="1568" HPOS="90"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block119" HEIGHT="49" WIDTH="59" VPOS="1559" HPOS="133" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="30" WIDTH="31" VPOS="1570" HPOS="149"><String STYLE="bold" STYLEREFS="font4" WC="0.4699999988" CONTENT="D" HEIGHT="30" WIDTH="31" VPOS="1570" HPOS="149"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block120" HEIGHT="49" WIDTH="78" VPOS="1559" HPOS="192" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="34" WIDTH="63" VPOS="1567" HPOS="207"><String STYLEREFS="font4" WC="0.4799999893" CONTENT="63-" HEIGHT="34" WIDTH="63" VPOS="1567" HPOS="207"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block121" HEIGHT="50" WIDTH="192" VPOS="1558" HPOS="270" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="276,1559 468,1559 468,1608 276,1608 276,1559"/></Shape>
+<TextLine HEIGHT="42" WIDTH="79" VPOS="1567" HPOS="270"><String STYLEREFS="font4" WC="0.6424999833" CONTENT="-5g," HEIGHT="42" WIDTH="79" VPOS="1567" HPOS="270"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block122" HEIGHT="49" WIDTH="88" VPOS="1558" HPOS="462" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="30" WIDTH="32" VPOS="1569" HPOS="505"><String STYLE="bold" STYLEREFS="font4" WC="0.25" CONTENT="D" HEIGHT="30" WIDTH="32" VPOS="1569" HPOS="505"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block123" HEIGHT="49" WIDTH="82" VPOS="1558" HPOS="550" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="34" WIDTH="66" VPOS="1567" HPOS="566"><String STYLEREFS="font4" WC="0.9233333468" CONTENT="7c-" HEIGHT="34" WIDTH="66" VPOS="1567" HPOS="566"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block124" HEIGHT="50" WIDTH="271" VPOS="1557" HPOS="632" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="638,1559 909,1559 909,1608 638,1608 638,1559"/></Shape>
+<TextLine HEIGHT="41" WIDTH="83" VPOS="1566" HPOS="632"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="-8d," HEIGHT="41" WIDTH="83" VPOS="1566" HPOS="632"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block125" HEIGHT="49" WIDTH="112" VPOS="1557" HPOS="903" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="35" WIDTH="33" VPOS="1563" HPOS="969"><String STYLE="bold" STYLEREFS="font4" WC="0.3549999893" CONTENT="4." HEIGHT="35" WIDTH="33" VPOS="1563" HPOS="969"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block126" HEIGHT="49" WIDTH="55" VPOS="1557" HPOS="1015" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="30" VPOS="1566" HPOS="1031"><String STYLE="bold" STYLEREFS="font4" WC="0.5199999809" CONTENT="D" HEIGHT="31" WIDTH="30" VPOS="1566" HPOS="1031"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block127" HEIGHT="50" WIDTH="74" VPOS="1556" HPOS="1070" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1559 1150,1559 1150,1608 1076,1608 1076,1559"/></Shape>
+<TextLine HEIGHT="34" WIDTH="54" VPOS="1562" HPOS="1090"><String STYLEREFS="font4" WC="0.5566666722" CONTENT="7c-" HEIGHT="34" WIDTH="54" VPOS="1562" HPOS="1090"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block128" HEIGHT="49" WIDTH="201" VPOS="1556" HPOS="1144" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="40" WIDTH="96" VPOS="1562" HPOS="1144"><String STYLE="bold" STYLEREFS="font4" WC="0.5500000119" CONTENT="-" HEIGHT="4" WIDTH="19" VPOS="1583" HPOS="1144"/><SP WIDTH="19" VPOS="1562" HPOS="1164"/><String STYLE="bold" STYLEREFS="font4" WC="0.7833333611" CONTENT="6b," HEIGHT="40" WIDTH="56" VPOS="1562" HPOS="1184"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block129" HEIGHT="49" WIDTH="90" VPOS="1556" HPOS="1345" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="1564" HPOS="1388"><String STYLE="bold" STYLEREFS="font4" WC="0.2700000107" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="1564" HPOS="1388"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block130" HEIGHT="50" WIDTH="97" VPOS="1555" HPOS="1435" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1559 1538,1559 1538,1608 1441,1608 1441,1559"/></Shape>
+<TextLine HEIGHT="36" WIDTH="84" VPOS="1561" HPOS="1448"><String STYLE="bold" STYLEREFS="font4" WC="0.9399999976" CONTENT="5" HEIGHT="35" WIDTH="21" VPOS="1562" HPOS="1448"/><SP WIDTH="4" VPOS="1562" HPOS="1470"/><String STYLEREFS="font4" WC="0.6200000048" CONTENT="c—" HEIGHT="20" WIDTH="57" VPOS="1574" HPOS="1475"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block131" HEIGHT="49" WIDTH="115" VPOS="1555" HPOS="1532" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="41" WIDTH="59" VPOS="1559" HPOS="1542"><String STYLE="bold" STYLEREFS="font4" WC="0.400000006" CONTENT="4b," HEIGHT="41" WIDTH="59" VPOS="1559" HPOS="1542"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block132" HEIGHT="47" WIDTH="74" VPOS="1608" HPOS="59" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="37" WIDTH="34" VPOS="1615" HPOS="89"><String STYLEREFS="font4" WC="0.9399999976" CONTENT="5." HEIGHT="37" WIDTH="34" VPOS="1615" HPOS="89"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block133" HEIGHT="47" WIDTH="59" VPOS="1608" HPOS="133" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="1617" HPOS="149"><String STYLE="bold" STYLEREFS="font4" WC="0.2800000012" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="1617" HPOS="149"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block134" HEIGHT="47" WIDTH="78" VPOS="1608" HPOS="192" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="42" WIDTH="62" VPOS="1616" HPOS="208"><String STYLEREFS="font4" WC="0.2199999988" CONTENT="6" HEIGHT="30" WIDTH="20" VPOS="1616" HPOS="208"/><SP WIDTH="4" VPOS="1616" HPOS="229"/><String STYLEREFS="font4" WC="1." CONTENT="g-" HEIGHT="30" WIDTH="36" VPOS="1628" HPOS="234"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block135" HEIGHT="48" WIDTH="192" VPOS="1607" HPOS="270" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="276,1608 468,1608 468,1655 276,1655 276,1608"/></Shape>
+<TextLine HEIGHT="41" WIDTH="83" VPOS="1615" HPOS="270"><String STYLE="bold" STYLEREFS="font4" WC="0.8100000024" CONTENT="—43," HEIGHT="41" WIDTH="83" VPOS="1615" HPOS="270"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block136" HEIGHT="47" WIDTH="88" VPOS="1607" HPOS="462" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="31" VPOS="1616" HPOS="506"><String STYLE="bold" STYLEREFS="font4" WC="0.4799999893" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1616" HPOS="506"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block137" HEIGHT="47" WIDTH="82" VPOS="1607" HPOS="550" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="34" WIDTH="68" VPOS="1615" HPOS="564"><String STYLE="bold" STYLEREFS="font4" WC="0.9366666675" CONTENT="8d-" HEIGHT="34" WIDTH="68" VPOS="1615" HPOS="564"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block138" HEIGHT="48" WIDTH="271" VPOS="1606" HPOS="632" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="638,1608 909,1608 909,1655 638,1655 638,1608"/></Shape>
+<TextLine HEIGHT="41" WIDTH="82" VPOS="1614" HPOS="632"><String STYLEREFS="font4" WC="0.6700000167" CONTENT="-7c," HEIGHT="41" WIDTH="82" VPOS="1614" HPOS="632"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block139" HEIGHT="47" WIDTH="112" VPOS="1606" HPOS="903" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="35" WIDTH="32" VPOS="1614" HPOS="971"><String STYLEREFS="font4" WC="0.4300000072" CONTENT="5." HEIGHT="35" WIDTH="32" VPOS="1614" HPOS="971"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block140" HEIGHT="47" WIDTH="55" VPOS="1606" HPOS="1015" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="31" VPOS="1614" HPOS="1029"><String STYLE="bold" STYLEREFS="font4" WC="0.3100000024" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1614" HPOS="1029"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block141" HEIGHT="48" WIDTH="74" VPOS="1605" HPOS="1070" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1608 1150,1608 1150,1655 1076,1655 1076,1608"/></Shape>
+<TextLine HEIGHT="35" WIDTH="45" VPOS="1610" HPOS="1088"><String STYLE="bold" STYLEREFS="font4" WC="0.6349999905" CONTENT="6b" HEIGHT="35" WIDTH="45" VPOS="1610" HPOS="1088"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block142" HEIGHT="47" WIDTH="201" VPOS="1605" HPOS="1144" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="41" WIDTH="96" VPOS="1610" HPOS="1144"><String STYLEREFS="font4" WC="0.9375" CONTENT="—5a," HEIGHT="41" WIDTH="96" VPOS="1610" HPOS="1144"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block143" HEIGHT="47" WIDTH="90" VPOS="1605" HPOS="1345" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="30" WIDTH="32" VPOS="1613" HPOS="1388"><String STYLE="bold" STYLEREFS="font4" WC="0.25" CONTENT="D" HEIGHT="30" WIDTH="32" VPOS="1613" HPOS="1388"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block144" HEIGHT="48" WIDTH="97" VPOS="1604" HPOS="1435" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1608 1538,1608 1538,1655 1441,1655 1441,1608"/></Shape>
+<TextLine HEIGHT="34" WIDTH="86" VPOS="1610" HPOS="1446"><String STYLE="bold" STYLEREFS="font4" WC="0.7733333111" CONTENT="4d—" HEIGHT="34" WIDTH="86" VPOS="1610" HPOS="1446"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block145" HEIGHT="47" WIDTH="115" VPOS="1604" HPOS="1532" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="39" WIDTH="56" VPOS="1609" HPOS="1545"><String STYLEREFS="font4" WC="0.4833333194" CONTENT="3c," HEIGHT="39" WIDTH="56" VPOS="1609" HPOS="1545"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block146" HEIGHT="48" WIDTH="74" VPOS="1655" HPOS="59" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="35" WIDTH="31" VPOS="1663" HPOS="90"><String STYLE="bold" STYLEREFS="font4" WC="0.9049999714" CONTENT="6." HEIGHT="35" WIDTH="31" VPOS="1663" HPOS="90"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block147" HEIGHT="48" WIDTH="59" VPOS="1655" HPOS="133" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="30" WIDTH="32" VPOS="1665" HPOS="148"><String STYLE="bold" STYLEREFS="font4" WC="0.3400000036" CONTENT="D" HEIGHT="30" WIDTH="32" VPOS="1665" HPOS="148"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block148" HEIGHT="48" WIDTH="78" VPOS="1655" HPOS="192" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="32" WIDTH="64" VPOS="1663" HPOS="206"><String STYLE="bold" STYLEREFS="font4" WC="0.4699999988" CONTENT="43-" HEIGHT="32" WIDTH="64" VPOS="1663" HPOS="206"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block149" HEIGHT="49" WIDTH="192" VPOS="1654" HPOS="270" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="276,1655 468,1655 468,1703 276,1703 276,1655"/></Shape>
+<TextLine HEIGHT="42" WIDTH="76" VPOS="1662" HPOS="270"><String STYLEREFS="font4" WC="0.7649999857" CONTENT="-3e," HEIGHT="42" WIDTH="76" VPOS="1662" HPOS="270"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block150" HEIGHT="48" WIDTH="88" VPOS="1654" HPOS="462" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="31" VPOS="1664" HPOS="506"><String STYLE="bold" STYLEREFS="font4" WC="0.4900000095" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1664" HPOS="506"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block151" HEIGHT="48" WIDTH="82" VPOS="1654" HPOS="550" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="33" WIDTH="67" VPOS="1662" HPOS="565"><String STYLEREFS="font4" WC="0.7400000095" CONTENT="7c-" HEIGHT="33" WIDTH="67" VPOS="1662" HPOS="565"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block152" HEIGHT="49" WIDTH="271" VPOS="1653" HPOS="632" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="638,1655 909,1655 909,1703 638,1703 638,1655"/></Shape>
+<TextLine HEIGHT="41" WIDTH="82" VPOS="1661" HPOS="632"><String STYLE="bold" STYLEREFS="font4" WC="0.9424999952" CONTENT="-8d," HEIGHT="41" WIDTH="82" VPOS="1661" HPOS="632"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block153" HEIGHT="48" WIDTH="112" VPOS="1653" HPOS="903" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="36" WIDTH="32" VPOS="1659" HPOS="970"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="6." HEIGHT="36" WIDTH="32" VPOS="1659" HPOS="970"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block154" HEIGHT="48" WIDTH="55" VPOS="1653" HPOS="1015" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1021,1655 1076,1655 1076,1703 1021,1703 1021,1655"/></Shape>
+<TextLine HEIGHT="31" WIDTH="31" VPOS="1662" HPOS="1030"><String STYLE="bold" STYLEREFS="font4" WC="0.2899999917" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1662" HPOS="1030"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block155" HEIGHT="49" WIDTH="74" VPOS="1652" HPOS="1070" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1655 1150,1655 1150,1703 1076,1703 1076,1655"/></Shape>
+<TextLine HEIGHT="36" WIDTH="45" VPOS="1658" HPOS="1090"><String STYLEREFS="font4" WC="0.75" CONTENT="5a" HEIGHT="36" WIDTH="45" VPOS="1658" HPOS="1090"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block156" HEIGHT="48" WIDTH="201" VPOS="1652" HPOS="1144" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1150,1655 1351,1655 1351,1703 1150,1703 1150,1655"/></Shape>
+<TextLine HEIGHT="39" WIDTH="98" VPOS="1658" HPOS="1144"><String STYLE="bold" STYLEREFS="font4" WC="0.8274999857" CONTENT="-6b," HEIGHT="39" WIDTH="98" VPOS="1658" HPOS="1144"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block157" HEIGHT="48" WIDTH="90" VPOS="1652" HPOS="1345" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="1660" HPOS="1387"><String STYLE="bold" STYLEREFS="font4" WC="0.4600000083" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="1660" HPOS="1387"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block158" HEIGHT="49" WIDTH="97" VPOS="1651" HPOS="1435" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1655 1538,1655 1538,1703 1441,1703 1441,1655"/></Shape>
+<TextLine HEIGHT="34" WIDTH="86" VPOS="1658" HPOS="1446"><String STYLE="bold" STYLEREFS="font4" WC="0.6733333468" CONTENT="4b-" HEIGHT="34" WIDTH="86" VPOS="1658" HPOS="1446"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block159" HEIGHT="48" WIDTH="115" VPOS="1651" HPOS="1532" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1538,1655 1653,1655 1653,1703 1538,1703 1538,1655"/></Shape>
+<TextLine HEIGHT="40" WIDTH="69" VPOS="1657" HPOS="1532"><String STYLEREFS="font4" WC="0.8000000119" CONTENT="-5a," HEIGHT="40" WIDTH="69" VPOS="1657" HPOS="1532"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block160" HEIGHT="48" WIDTH="74" VPOS="1703" HPOS="59" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="34" WIDTH="31" VPOS="1710" HPOS="89"><String STYLEREFS="font4" WC="0.9850000143" CONTENT="7." HEIGHT="34" WIDTH="31" VPOS="1710" HPOS="89"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block161" HEIGHT="48" WIDTH="59" VPOS="1703" HPOS="133" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="139,1703 198,1703 198,1751 139,1751 139,1703"/></Shape>
+<TextLine HEIGHT="29" WIDTH="31" VPOS="1713" HPOS="148"><String STYLE="bold" STYLEREFS="font4" WC="0.4900000095" CONTENT="D" HEIGHT="29" WIDTH="31" VPOS="1713" HPOS="148"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block162" HEIGHT="48" WIDTH="78" VPOS="1703" HPOS="192" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="198,1703 276,1703 276,1751 198,1751 198,1703"/></Shape>
+<TextLine HEIGHT="33" WIDTH="65" VPOS="1711" HPOS="205"><String STYLEREFS="font4" WC="0.573333323" CONTENT="5a-" HEIGHT="33" WIDTH="65" VPOS="1711" HPOS="205"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block163" HEIGHT="49" WIDTH="192" VPOS="1702" HPOS="270" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="276,1703 468,1703 468,1751 276,1751 276,1703"/></Shape>
+<TextLine HEIGHT="41" WIDTH="87" VPOS="1710" HPOS="270"><String STYLE="bold" STYLEREFS="font4" WC="0.9049999714" CONTENT="-6b," HEIGHT="41" WIDTH="87" VPOS="1710" HPOS="270"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block164" HEIGHT="48" WIDTH="88" VPOS="1702" HPOS="462" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="31" VPOS="1712" HPOS="504"><String STYLE="bold" STYLEREFS="font4" WC="0.2899999917" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1712" HPOS="504"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block165" HEIGHT="48" WIDTH="82" VPOS="1702" HPOS="550" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="556,1703 638,1703 638,1751 556,1751 556,1703"/></Shape>
+<TextLine HEIGHT="35" WIDTH="70" VPOS="1710" HPOS="562"><String STYLE="bold" STYLEREFS="font4" WC="0.4699999988" CONTENT="8b-" HEIGHT="35" WIDTH="70" VPOS="1710" HPOS="562"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block166" HEIGHT="49" WIDTH="271" VPOS="1701" HPOS="632" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="638,1703 909,1703 909,1751 638,1751 638,1703"/></Shape>
+<TextLine HEIGHT="40" WIDTH="83" VPOS="1710" HPOS="632"><String STYLEREFS="font4" WC="0.5350000262" CONTENT="-7c," HEIGHT="40" WIDTH="83" VPOS="1710" HPOS="632"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block167" HEIGHT="48" WIDTH="112" VPOS="1701" HPOS="903" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="42" WIDTH="34" VPOS="1707" HPOS="970"><String STYLEREFS="font4" WC="0.8399999738" CONTENT="7," HEIGHT="42" WIDTH="34" VPOS="1707" HPOS="970"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block168" HEIGHT="48" WIDTH="55" VPOS="1701" HPOS="1015" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1021,1703 1076,1703 1076,1751 1021,1751 1021,1703"/></Shape>
+<TextLine HEIGHT="30" WIDTH="31" VPOS="1710" HPOS="1031"><String STYLE="bold" STYLEREFS="font4" WC="0.4300000072" CONTENT="D" HEIGHT="30" WIDTH="31" VPOS="1710" HPOS="1031"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block169" HEIGHT="49" WIDTH="74" VPOS="1700" HPOS="1070" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1703 1150,1703 1150,1751 1076,1751 1076,1703"/></Shape>
+<TextLine HEIGHT="36" WIDTH="45" VPOS="1705" HPOS="1089"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="6b" HEIGHT="36" WIDTH="45" VPOS="1705" HPOS="1089"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block170" HEIGHT="48" WIDTH="201" VPOS="1700" HPOS="1144" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1150,1703 1351,1703 1351,1751 1150,1751 1150,1703"/></Shape>
+<TextLine HEIGHT="40" WIDTH="94" VPOS="1706" HPOS="1146"><String STYLEREFS="font4" WC="0.6750000119" CONTENT="-7c," HEIGHT="40" WIDTH="94" VPOS="1706" HPOS="1146"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block171" HEIGHT="48" WIDTH="90" VPOS="1700" HPOS="1345" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="32" WIDTH="32" VPOS="1708" HPOS="1387"><String STYLE="bold" STYLEREFS="font4" WC="0.2899999917" CONTENT="D" HEIGHT="32" WIDTH="32" VPOS="1708" HPOS="1387"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block172" HEIGHT="49" WIDTH="97" VPOS="1699" HPOS="1435" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1703 1538,1703 1538,1751 1441,1751 1441,1703"/></Shape>
+<TextLine HEIGHT="35" WIDTH="85" VPOS="1706" HPOS="1447"><String STYLEREFS="font4" WC="0.4966666698" CONTENT="3c-" HEIGHT="35" WIDTH="85" VPOS="1706" HPOS="1447"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block173" HEIGHT="48" WIDTH="115" VPOS="1699" HPOS="1532" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1538,1703 1653,1703 1653,1751 1538,1751 1538,1703"/></Shape>
+<TextLine HEIGHT="44" WIDTH="60" VPOS="1705" HPOS="1540"><String STYLE="bold" STYLEREFS="font4" WC="0.5566666722" CONTENT="4d," HEIGHT="44" WIDTH="60" VPOS="1705" HPOS="1540"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block174" HEIGHT="49" WIDTH="75" VPOS="1751" HPOS="59" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="65,1751 139,1751 139,1800 65,1800 65,1751"/></Shape>
+<TextLine HEIGHT="35" WIDTH="33" VPOS="1758" HPOS="87"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="8." HEIGHT="35" WIDTH="33" VPOS="1758" HPOS="87"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block175" HEIGHT="49" WIDTH="60" VPOS="1751" HPOS="133" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="139,1751 198,1751 198,1800 139,1800 139,1751"/></Shape>
+<TextLine HEIGHT="30" WIDTH="31" VPOS="1760" HPOS="148"><String STYLE="bold" STYLEREFS="font4" WC="0.6200000048" CONTENT="D" HEIGHT="30" WIDTH="31" VPOS="1760" HPOS="148"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block176" HEIGHT="49" WIDTH="79" VPOS="1751" HPOS="192" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="198,1751 276,1751 276,1800 198,1800 198,1751"/></Shape>
+<TextLine HEIGHT="34" WIDTH="66" VPOS="1758" HPOS="205"><String STYLEREFS="font4" WC="0.8566666842" CONTENT="3s-" HEIGHT="34" WIDTH="66" VPOS="1758" HPOS="205"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block177" HEIGHT="50" WIDTH="193" VPOS="1750" HPOS="270" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="276,1751 468,1751 468,1800 276,1800 276,1751"/></Shape>
+<TextLine HEIGHT="41" WIDTH="87" VPOS="1758" HPOS="270"><String STYLE="bold" STYLEREFS="font4" WC="0.9624999762" CONTENT="-4d," HEIGHT="41" WIDTH="87" VPOS="1758" HPOS="270"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block178" HEIGHT="49" WIDTH="89" VPOS="1750" HPOS="462" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="468,1751 556,1751 556,1800 468,1800 468,1751"/></Shape>
+<TextLine HEIGHT="30" WIDTH="33" VPOS="1760" HPOS="503"><String STYLE="bold" STYLEREFS="font4" WC="0.7699999809" CONTENT="D" HEIGHT="30" WIDTH="33" VPOS="1760" HPOS="503"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block179" HEIGHT="49" WIDTH="83" VPOS="1750" HPOS="550" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="556,1751 638,1751 638,1800 556,1800 556,1751"/></Shape>
+<TextLine HEIGHT="33" WIDTH="70" VPOS="1758" HPOS="563"><String STYLEREFS="font4" WC="0.8666666746" CONTENT="7c-" HEIGHT="33" WIDTH="70" VPOS="1758" HPOS="563"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block180" HEIGHT="50" WIDTH="272" VPOS="1749" HPOS="632" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="638,1751 909,1751 909,1800 638,1800 638,1751"/></Shape>
+<TextLine HEIGHT="44" WIDTH="106" VPOS="1757" HPOS="632"><String STYLEREFS="font4" WC="0.7699999809" CONTENT="-5af," HEIGHT="44" WIDTH="106" VPOS="1757" HPOS="632"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block181" HEIGHT="49" WIDTH="113" VPOS="1749" HPOS="903" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="909,1751 1021,1751 1021,1800 909,1800 909,1751"/></Shape>
+<TextLine HEIGHT="35" WIDTH="34" VPOS="1756" HPOS="968"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="8." HEIGHT="35" WIDTH="34" VPOS="1756" HPOS="968"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block182" HEIGHT="49" WIDTH="56" VPOS="1749" HPOS="1015" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1021,1751 1076,1751 1076,1800 1021,1800 1021,1751"/></Shape>
+<TextLine HEIGHT="31" WIDTH="33" VPOS="1758" HPOS="1028"><String STYLE="bold" STYLEREFS="font4" WC="0.3799999952" CONTENT="D" HEIGHT="31" WIDTH="33" VPOS="1758" HPOS="1028"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block183" HEIGHT="50" WIDTH="75" VPOS="1748" HPOS="1070" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1751 1150,1751 1150,1800 1076,1800 1076,1751"/></Shape>
+<TextLine HEIGHT="34" WIDTH="57" VPOS="1755" HPOS="1088"><String STYLEREFS="font4" WC="0.8133333325" CONTENT="7c-" HEIGHT="34" WIDTH="57" VPOS="1755" HPOS="1088"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block184" HEIGHT="49" WIDTH="202" VPOS="1748" HPOS="1144" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1150,1751 1351,1751 1351,1800 1150,1800 1150,1751"/></Shape>
+<TextLine HEIGHT="35" WIDTH="97" VPOS="1754" HPOS="1144"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="—" HEIGHT="3" WIDTH="31" VPOS="1775" HPOS="1145"/><SP WIDTH="7" VPOS="1754" HPOS="1176"/><String STYLE="bold" STYLEREFS="font4" WC="0.853333354" CONTENT="8d." HEIGHT="35" WIDTH="58" VPOS="1754" HPOS="1183"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block185" HEIGHT="49" WIDTH="91" VPOS="1748" HPOS="1345" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1351,1751 1441,1751 1441,1800 1351,1800 1351,1751"/></Shape>
+<TextLine HEIGHT="31" WIDTH="33" VPOS="1756" HPOS="1387"><String STYLE="bold" STYLEREFS="font4" WC="0.3799999952" CONTENT="D" HEIGHT="31" WIDTH="33" VPOS="1756" HPOS="1387"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block186" HEIGHT="50" WIDTH="98" VPOS="1747" HPOS="1435" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1751 1538,1751 1538,1800 1441,1800 1441,1751"/></Shape>
+<TextLine HEIGHT="35" WIDTH="87" VPOS="1754" HPOS="1446"><String STYLEREFS="font4" WC="0.8199999928" CONTENT="5a—" HEIGHT="35" WIDTH="87" VPOS="1754" HPOS="1446"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block187" HEIGHT="49" WIDTH="116" VPOS="1747" HPOS="1532" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1538,1751 1653,1751 1653,1800 1538,1800 1538,1751"/></Shape>
+<TextLine HEIGHT="41" WIDTH="59" VPOS="1753" HPOS="1543"><String STYLE="bold" STYLEREFS="font4" WC="0.7699999809" CONTENT="6b," HEIGHT="41" WIDTH="59" VPOS="1753" HPOS="1543"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block188" HEIGHT="47" WIDTH="74" VPOS="1800" HPOS="60" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="35" WIDTH="31" VPOS="1805" HPOS="88"><String STYLEREFS="font4" WC="1." CONTENT="9." HEIGHT="35" WIDTH="31" VPOS="1805" HPOS="88"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block189" HEIGHT="47" WIDTH="59" VPOS="1800" HPOS="134" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="30" WIDTH="31" VPOS="1808" HPOS="146"><String STYLE="bold" STYLEREFS="font4" WC="0.2700000107" CONTENT="D" HEIGHT="30" WIDTH="31" VPOS="1808" HPOS="146"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block190" HEIGHT="47" WIDTH="78" VPOS="1800" HPOS="193" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="198,1800 276,1800 276,1847 198,1847 198,1800"/></Shape>
+<TextLine HEIGHT="32" WIDTH="67" VPOS="1807" HPOS="204"><String STYLE="bold" STYLEREFS="font4" WC="0.8799999952" CONTENT="4d-" HEIGHT="32" WIDTH="67" VPOS="1807" HPOS="204"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block191" HEIGHT="48" WIDTH="192" VPOS="1799" HPOS="271" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="276,1800 468,1800 468,1847 276,1847 276,1800"/></Shape>
+<TextLine HEIGHT="42" WIDTH="82" VPOS="1805" HPOS="271"><String STYLEREFS="font4" WC="0.9875000119" CONTENT="-5s," HEIGHT="42" WIDTH="82" VPOS="1805" HPOS="271"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block192" HEIGHT="47" WIDTH="88" VPOS="1799" HPOS="463" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="31" WIDTH="32" VPOS="1808" HPOS="502"><String STYLE="bold" STYLEREFS="font4" WC="0.2599999905" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="1808" HPOS="502"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block193" HEIGHT="47" WIDTH="82" VPOS="1799" HPOS="551" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="556,1800 638,1800 638,1847 556,1847 556,1800"/></Shape>
+<TextLine HEIGHT="34" WIDTH="71" VPOS="1806" HPOS="562"><String STYLEREFS="font4" WC="0.3899999857" CONTENT="5" HEIGHT="34" WIDTH="20" VPOS="1806" HPOS="562"/><SP WIDTH="3" VPOS="1806" HPOS="583"/><String STYLEREFS="font4" WC="0.8500000238" CONTENT="a-" HEIGHT="21" WIDTH="46" VPOS="1818" HPOS="587"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block194" HEIGHT="48" WIDTH="271" VPOS="1798" HPOS="633" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="638,1800 909,1800 909,1847 638,1847 638,1800"/></Shape>
+<TextLine HEIGHT="41" WIDTH="83" VPOS="1805" HPOS="633"><String STYLE="bold" STYLEREFS="font4" WC="0.9449999928" CONTENT="-6b," HEIGHT="41" WIDTH="83" VPOS="1805" HPOS="633"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block195" HEIGHT="47" WIDTH="112" VPOS="1798" HPOS="904" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="909,1800 1021,1800 1021,1847 909,1847 909,1800"/></Shape>
+<TextLine HEIGHT="34" WIDTH="33" VPOS="1803" HPOS="969"><String STYLEREFS="font4" WC="1." CONTENT="9." HEIGHT="34" WIDTH="33" VPOS="1803" HPOS="969"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block196" HEIGHT="47" WIDTH="55" VPOS="1798" HPOS="1016" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1021,1800 1076,1800 1076,1847 1021,1847 1021,1800"/></Shape>
+<TextLine HEIGHT="30" WIDTH="31" VPOS="1806" HPOS="1030"><String STYLE="bold" STYLEREFS="font4" WC="0.5699999928" CONTENT="D" HEIGHT="30" WIDTH="31" VPOS="1806" HPOS="1030"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block197" HEIGHT="48" WIDTH="74" VPOS="1797" HPOS="1071" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1800 1150,1800 1150,1847 1076,1847 1076,1800"/></Shape>
+<TextLine HEIGHT="35" WIDTH="47" VPOS="1803" HPOS="1088"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="8b" HEIGHT="35" WIDTH="47" VPOS="1803" HPOS="1088"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block198" HEIGHT="47" WIDTH="201" VPOS="1797" HPOS="1145" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="38" WIDTH="96" VPOS="1803" HPOS="1145"><String STYLEREFS="font4" WC="0.8525000215" CONTENT="-7c," HEIGHT="38" WIDTH="96" VPOS="1803" HPOS="1145"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block199" HEIGHT="47" WIDTH="90" VPOS="1797" HPOS="1346" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1351,1800 1441,1800 1441,1847 1351,1847 1351,1800"/></Shape>
+<TextLine HEIGHT="31" WIDTH="32" VPOS="1804" HPOS="1388"><String STYLE="bold" STYLEREFS="font4" WC="0.2700000107" CONTENT="D" HEIGHT="31" WIDTH="32" VPOS="1804" HPOS="1388"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block200" HEIGHT="48" WIDTH="97" VPOS="1796" HPOS="1436" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1800 1538,1800 1538,1847 1441,1847 1441,1800"/></Shape>
+<TextLine HEIGHT="36" WIDTH="84" VPOS="1801" HPOS="1449"><String STYLE="bold" STYLEREFS="font4" WC="0.8700000048" CONTENT="3d—" HEIGHT="36" WIDTH="84" VPOS="1801" HPOS="1449"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block201" HEIGHT="47" WIDTH="115" VPOS="1796" HPOS="1533" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1538,1800 1653,1800 1653,1847 1538,1847 1538,1800"/></Shape>
+<TextLine HEIGHT="40" WIDTH="69" VPOS="1801" HPOS="1533"><String STYLEREFS="font4" WC="0.7450000048" CONTENT="-5c," HEIGHT="40" WIDTH="69" VPOS="1801" HPOS="1533"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block202" HEIGHT="61" WIDTH="74" VPOS="1847" HPOS="60" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="35" WIDTH="52" VPOS="1853" HPOS="68"><String STYLEREFS="font4" WC="0.6299999952" CONTENT="10." HEIGHT="35" WIDTH="52" VPOS="1853" HPOS="68"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block203" HEIGHT="61" WIDTH="59" VPOS="1847" HPOS="134" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="32" WIDTH="43" VPOS="1854" HPOS="147"><String STYLEREFS="font4" WC="0.7149999738" CONTENT="7a" HEIGHT="32" WIDTH="43" VPOS="1854" HPOS="147"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block204" HEIGHT="62" WIDTH="270" VPOS="1846" HPOS="193" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="198,1847 468,1847 468,1908 198,1908 198,1847"/></Shape>
+<TextLine HEIGHT="43" WIDTH="161" VPOS="1852" HPOS="193"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="—8b" HEIGHT="35" WIDTH="92" VPOS="1853" HPOS="193"/><SP WIDTH="24" VPOS="1855" HPOS="286"/><String STYLE="bold" STYLEREFS="font4" WC="0.4650000036" CONTENT="D," HEIGHT="38" WIDTH="43" VPOS="1856" HPOS="311"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block205" HEIGHT="61" WIDTH="112" VPOS="1845" HPOS="904" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="34" WIDTH="56" VPOS="1851" HPOS="945"><String STYLEREFS="font4" WC="1." CONTENT="10." HEIGHT="34" WIDTH="56" VPOS="1851" HPOS="945"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block206" HEIGHT="61" WIDTH="55" VPOS="1845" HPOS="1016" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1021,1847 1076,1847 1076,1908 1021,1908 1021,1847"/></Shape>
+<TextLine HEIGHT="31" WIDTH="31" VPOS="1854" HPOS="1027"><String STYLE="bold" STYLEREFS="font4" WC="0.3100000024" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="1854" HPOS="1027"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block207" HEIGHT="62" WIDTH="74" VPOS="1844" HPOS="1071" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1076,1847 1150,1847 1150,1908 1076,1908 1076,1847"/></Shape>
+<TextLine HEIGHT="34" WIDTH="58" VPOS="1851" HPOS="1087"><String STYLEREFS="font4" WC="0.8299999833" CONTENT="7c-" HEIGHT="34" WIDTH="58" VPOS="1851" HPOS="1087"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block208" HEIGHT="61" WIDTH="201" VPOS="1844" HPOS="1145" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="42" WIDTH="116" VPOS="1851" HPOS="1145"><String STYLEREFS="font4" WC="0.7779999971" CONTENT="—5af," HEIGHT="42" WIDTH="116" VPOS="1851" HPOS="1145"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block209" HEIGHT="61" WIDTH="90" VPOS="1844" HPOS="1346" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="34" WIDTH="44" VPOS="1850" HPOS="1390"><String STYLEREFS="font4" WC="0.8249999881" CONTENT="7a" HEIGHT="34" WIDTH="44" VPOS="1850" HPOS="1390"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block210" HEIGHT="62" WIDTH="97" VPOS="1843" HPOS="1436" language="de" STYLEREFS="font5"><Shape><Polygon POINTS="1441,1847 1538,1847 1538,1908 1441,1908 1441,1847"/></Shape>
+<TextLine HEIGHT="36" WIDTH="92" VPOS="1849" HPOS="1437"><String STYLE="bold" STYLEREFS="font4" WC="1." CONTENT="—8b" HEIGHT="36" WIDTH="92" VPOS="1849" HPOS="1437"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block211" HEIGHT="61" WIDTH="115" VPOS="1843" HPOS="1533" language="de" STYLEREFS="font5">
+<TextLine HEIGHT="39" WIDTH="45" VPOS="1851" HPOS="1557"><String STYLE="bold" STYLEREFS="font4" WC="0.4250000119" CONTENT="D," HEIGHT="39" WIDTH="45" VPOS="1851" HPOS="1557"/></TextLine>
+</TextBlock></ComposedBlock></ComposedBlock></ComposedBlock>
+<TextBlock ID="Page1_Block212" HEIGHT="67" WIDTH="1053" VPOS="1949" HPOS="358" language="de" STYLEREFS="font6"><Shape><Polygon POINTS="363,1952 1416,1952 1416,2017 363,2017 363,1952"/></Shape>
+<TextLine HEIGHT="51" WIDTH="1037" VPOS="1957" HPOS="366"><String STYLE="bold" WC="0.6850000024" CONTENT="Lösung" HEIGHT="48" WIDTH="151" VPOS="1960" HPOS="366"/><SP WIDTH="27" VPOS="1960" HPOS="518"/><String STYLE="bold" WC="0.8500000238" CONTENT="der" HEIGHT="39" WIDTH="61" VPOS="1960" HPOS="546"/><SP WIDTH="25" VPOS="1972" HPOS="608"/><String STYLE="bold" WC="0.4099999964" CONTENT="polnisch-französischen" HEIGHT="49" WIDTH="437" VPOS="1958" HPOS="634"/><SP WIDTH="27" VPOS="1959" HPOS="1072"/><String STYLE="bold" WC="0.4658333361" CONTENT="Damaufgaben." HEIGHT="48" WIDTH="303" VPOS="1958" HPOS="1100"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block213" HEIGHT="192" WIDTH="51" VPOS="2108" HPOS="55" language="de" STYLEREFS="font0"><Shape><Polygon POINTS="60,2108 110,2108 110,2300 60,2300 60,2108"/></Shape>
+<TextLine HEIGHT="34" WIDTH="32" VPOS="2116" HPOS="64" STYLEREFS="font3"><String STYLE="bold" STYLEREFS="font5" WC="1." CONTENT="1" HEIGHT="34" WIDTH="18" VPOS="2116" HPOS="64"/><String STYLE="bold" WC="1." CONTENT="." HEIGHT="8" WIDTH="7" VPOS="2142" HPOS="89"/></TextLine>
+<TextLine HEIGHT="33" WIDTH="32" VPOS="2164" HPOS="64"><String STYLEREFS="font5" WC="1." CONTENT="2" HEIGHT="33" WIDTH="21" VPOS="2164" HPOS="64"/><String STYLE="bold" WC="1." CONTENT="." HEIGHT="7" WIDTH="7" VPOS="2190" HPOS="89"/></TextLine>
+<TextLine HEIGHT="36" WIDTH="31" VPOS="2211" HPOS="65"><String STYLEREFS="font4" WC="0.8550000191" CONTENT="3." HEIGHT="36" WIDTH="31" VPOS="2211" HPOS="65"/></TextLine>
+<TextLine HEIGHT="34" WIDTH="33" VPOS="2258" HPOS="64" STYLEREFS="font6"><String STYLE="bold" WC="1." CONTENT="4." HEIGHT="34" WIDTH="33" VPOS="2258" HPOS="64"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block214" HEIGHT="234" WIDTH="241" VPOS="2070" HPOS="114" language="de"><Shape><Polygon POINTS="119,2071 359,2071 359,2304 119,2304 119,2071"/></Shape>
+<TextLine HEIGHT="33" WIDTH="90" VPOS="2079" HPOS="194"><String STYLEREFS="font4" WC="0.6000000238" CONTENT="Weiß." HEIGHT="33" WIDTH="90" VPOS="2079" HPOS="194"/></TextLine>
+<TextLine HEIGHT="40" WIDTH="148" VPOS="2116" HPOS="124"><String STYLEREFS="font4" WC="0.5585714579" CONTENT="&lt;32—e3," HEIGHT="40" WIDTH="148" VPOS="2116" HPOS="124"/></TextLine>
+<TextLine HEIGHT="39" WIDTH="141" VPOS="2164" HPOS="122"><String STYLEREFS="font4" WC="0.8083333373" CONTENT="f2—e3," HEIGHT="39" WIDTH="141" VPOS="2164" HPOS="122"/></TextLine>
+<TextLine HEIGHT="43" WIDTH="175" VPOS="2210" HPOS="123"><String STYLE="italics smallcaps" STYLEREFS="font1" WC="1." CONTENT="h" HEIGHT="19" WIDTH="21" VPOS="2225" HPOS="123"/><String STYLE="italics" STYLEREFS="font5" WC="0.2199999988" CONTENT="3" HEIGHT="34" WIDTH="20" VPOS="2211" HPOS="147"/><String STYLEREFS="font3" WC="0.3700000048" CONTENT="—cöf," HEIGHT="41" WIDTH="125" VPOS="2212" HPOS="173"/></TextLine>
+<TextLine HEIGHT="37" WIDTH="228" VPOS="2258" HPOS="125" STYLEREFS="font4"><String WC="0.4799999893" CONTENT="7a—" HEIGHT="33" WIDTH="88" VPOS="2259" HPOS="125"/><String STYLE="bold" WC="1." CONTENT="&gt;5" HEIGHT="33" WIDTH="41" VPOS="2261" HPOS="219"/><SP WIDTH="25" VPOS="2261" HPOS="261"/><String STYLE="bold" WC="0.7599999905" CONTENT="und" HEIGHT="34" WIDTH="66" VPOS="2261" HPOS="287"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block215" HEIGHT="289" WIDTH="407" VPOS="2023" HPOS="352" language="de" STYLEREFS="font4"><Shape><Polygon POINTS="357,2025 763,2025 763,2313 357,2313 357,2025"/></Shape>
+<TextLine HEIGHT="46" WIDTH="209" VPOS="2032" HPOS="354" STYLEREFS="font4"><String STYLE="bold" WC="0.6628571153" CONTENT="Aufgabe" HEIGHT="46" WIDTH="151" VPOS="2032" HPOS="354"/><SP WIDTH="27" VPOS="2035" HPOS="506"/><String STYLE="bold" WC="1." CONTENT="1." HEIGHT="32" WIDTH="29" VPOS="2035" HPOS="534"/></TextLine>
+<TextLine HEIGHT="37" WIDTH="141" VPOS="2078" HPOS="609" STYLEREFS="font4"><String WC="0.7262499928" CONTENT="Sckwarz." HEIGHT="37" WIDTH="141" VPOS="2078" HPOS="609"/></TextLine>
+<TextLine HEIGHT="43" WIDTH="195" VPOS="2115" HPOS="502" STYLEREFS="font4"><String STYLE="bold" WC="0.3774999976" CONTENT="34—b4ff," HEIGHT="43" WIDTH="195" VPOS="2115" HPOS="502"/></TextLine>
+<TextLine HEIGHT="43" WIDTH="223" VPOS="2163" HPOS="504"><String STYLE="bold" WC="0.5500000119" CONTENT="D" HEIGHT="29" WIDTH="31" VPOS="2166" HPOS="504"/><SP WIDTH="26" VPOS="2166" HPOS="535"/><String STYLE="bold" WC="0.7714285851" CONTENT="cö—32f," HEIGHT="43" WIDTH="166" VPOS="2163" HPOS="561"/></TextLine>
+<TextLine HEIGHT="44" WIDTH="230" VPOS="2210" HPOS="504"><String STYLE="bold" WC="0.3199999928" CONTENT="D" HEIGHT="31" WIDTH="31" VPOS="2213" HPOS="504"/><SP WIDTH="27" VPOS="2213" HPOS="536"/><String STYLE="bold" WC="0.6314285994" CONTENT="f2—6bf," HEIGHT="44" WIDTH="170" VPOS="2210" HPOS="564"/></TextLine>
+<TextLine HEIGHT="46" WIDTH="153" VPOS="2259" HPOS="380"><String STYLE="bold" WC="0.8162500262" CONTENT="gewinnt." HEIGHT="46" WIDTH="153" VPOS="2259" HPOS="380"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block216" HEIGHT="147" WIDTH="50" VPOS="2107" HPOS="938" language="de" STYLEREFS="font2"><Shape><Polygon POINTS="943,2109 992,2109 992,2256 943,2256 943,2109"/></Shape>
+<TextLine HEIGHT="34" WIDTH="32" VPOS="2115" HPOS="946" STYLEREFS="font3"><String STYLEREFS="font0" WC="1." CONTENT="1" HEIGHT="34" WIDTH="20" VPOS="2115" HPOS="946"/><String STYLE="bold" WC="1." CONTENT="." HEIGHT="7" WIDTH="7" VPOS="2141" HPOS="971"/></TextLine>
+<TextLine HEIGHT="33" WIDTH="32" VPOS="2163" HPOS="947"><String STYLEREFS="font5" WC="0.5" CONTENT="2" HEIGHT="33" WIDTH="21" VPOS="2163" HPOS="947"/><String STYLE="bold" WC="0.7300000191" CONTENT="." HEIGHT="6" WIDTH="6" VPOS="2189" HPOS="973"/></TextLine>
+<TextLine HEIGHT="36" WIDTH="32" VPOS="2210" HPOS="948"><String STYLEREFS="font4" WC="0.6000000238" CONTENT="3." HEIGHT="36" WIDTH="32" VPOS="2210" HPOS="948"/></TextLine>
+</TextBlock><Illustration ID="Page1_Block217" HEIGHT="111" WIDTH="111" VPOS="2637" HPOS="879"/>
+<TextBlock ID="Page1_Block218" HEIGHT="195" WIDTH="233" VPOS="2068" HPOS="996" language="de"><Shape><Polygon POINTS="1001,2071 1233,2071 1233,2265 1001,2265 1001,2071"/></Shape>
+<TextLine HEIGHT="34" WIDTH="91" VPOS="2077" HPOS="1071"><String STYLEREFS="font4" WC="0.7059999704" CONTENT="Weiß." HEIGHT="34" WIDTH="91" VPOS="2077" HPOS="1071"/></TextLine>
+<TextLine HEIGHT="42" WIDTH="152" VPOS="2113" HPOS="1004"><String STYLEREFS="font4" WC="0.5899999738" CONTENT="44" HEIGHT="34" WIDTH="47" VPOS="2114" HPOS="1004"/><String STYLE="bold" STYLEREFS="font5" WC="1." CONTENT="—" HEIGHT="4" WIDTH="43" VPOS="2136" HPOS="1055"/><String STYLEREFS="font4" WC="0.6000000238" CONTENT="56" HEIGHT="35" WIDTH="43" VPOS="2114" HPOS="1102"/><String STYLE="bold" STYLEREFS="font5" WC="0.6299999952" CONTENT="," HEIGHT="14" WIDTH="7" VPOS="2140" HPOS="1149"/></TextLine>
+<TextLine HEIGHT="42" WIDTH="152" VPOS="2161" HPOS="1006"><String STYLEREFS="font4" WC="0.8366666436" CONTENT="2d—3c," HEIGHT="42" WIDTH="152" VPOS="2161" HPOS="1006"/></TextLine>
+<TextLine HEIGHT="44" WIDTH="211" VPOS="2210" HPOS="1010"><String STYLE="bold" STYLEREFS="font4" WC="0.5333333611" CONTENT="ic—" HEIGHT="33" WIDTH="89" VPOS="2211" HPOS="1010"/><String STYLEREFS="font4" WC="0.3580000103" CONTENT="7afff" HEIGHT="44" WIDTH="117" VPOS="2210" HPOS="1104"/></TextLine>
+</TextBlock>
+<TextBlock ID="Page1_Block219" HEIGHT="242" WIDTH="419" VPOS="2021" HPOS="1231" language="de" STYLEREFS="font4"><Shape><Polygon POINTS="1236,2025 1654,2025 1654,2266 1236,2266 1236,2025"/></Shape>
+<TextLine HEIGHT="46" WIDTH="211" VPOS="2029" HPOS="1239" STYLEREFS="font4"><String STYLE="bold" WC="0.7885714173" CONTENT="Aufgabe" HEIGHT="46" WIDTH="153" VPOS="2029" HPOS="1239"/><SP WIDTH="25" VPOS="2033" HPOS="1393"/><String STYLE="bold" WC="0.7649999857" CONTENT="2." HEIGHT="33" WIDTH="31" VPOS="2033" HPOS="1419"/></TextLine>
+<TextLine HEIGHT="37" WIDTH="144" VPOS="2076" HPOS="1497"><String WC="0.53125" CONTENT="Schwär-." HEIGHT="37" WIDTH="144" VPOS="2076" HPOS="1497"/></TextLine>
+<TextLine HEIGHT="47" WIDTH="172" VPOS="2112" HPOS="1389"><String WC="0.8899999857" CONTENT="6f—" HEIGHT="34" WIDTH="83" VPOS="2113" HPOS="1389"/><SP WIDTH="1" VPOS="2113" HPOS="1473"/><String WC="0.5" CONTENT="4df," HEIGHT="47" WIDTH="86" VPOS="2112" HPOS="1475"/></TextLine>
+<TextLine HEIGHT="46" WIDTH="185" VPOS="2160" HPOS="1387" STYLEREFS="font4"><String STYLE="bold" WC="0.6442857385" CONTENT="4d—2bf," HEIGHT="46" WIDTH="185" VPOS="2160" HPOS="1387"/></TextLine>
+<TextLine HEIGHT="46" WIDTH="248" VPOS="2209" HPOS="1247" STYLEREFS="font4"><String STYLE="bold" WC="0.5400000215" CONTENT="und" HEIGHT="34" WIDTH="67" VPOS="2211" HPOS="1247"/><SP WIDTH="24" VPOS="2211" HPOS="1315"/><String STYLE="bold" WC="0.7225000262" CONTENT="gewinnt." HEIGHT="46" WIDTH="155" VPOS="2209" HPOS="1340"/></TextLine>
+</TextBlock><GraphicalElement ID="Page1_Block220" HEIGHT="167" WIDTH="5" VPOS="2079" HPOS="457"/><GraphicalElement ID="Page1_Block221" HEIGHT="512" WIDTH="8" VPOS="1387" HPOS="459"/><GraphicalElement ID="Page1_Block222" HEIGHT="608" WIDTH="7" VPOS="607" HPOS="882"/><GraphicalElement ID="Page1_Block223" HEIGHT="287" WIDTH="16" VPOS="2029" HPOS="895"/><GraphicalElement ID="Page1_Block224" HEIGHT="574" WIDTH="16" VPOS="1324" HPOS="896"/><GraphicalElement ID="Page1_Block225" HEIGHT="515" WIDTH="6" VPOS="1382" HPOS="1342"/><GraphicalElement ID="Page1_Block226" HEIGHT="131" WIDTH="4" VPOS="2077" HPOS="1343"/><GraphicalElement ID="Page1_Block227" HEIGHT="39" WIDTH="3" VPOS="2171" HPOS="1345"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

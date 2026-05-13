@@ -2,3 +2,6 @@
 analysis*/
 .ipynb_checkpoints
 .idea/
+data/existdb/
+data/plots/
+data/xml/extracted_images/PPN745182844/PPN745182844.tar

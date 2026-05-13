@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2017-03-22</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY FineReader Engine</softwareName><softwareVersion>11</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3940" WIDTH="2612">
+<PrintSpace HEIGHT="3940" WIDTH="2612" VPOS="0" HPOS="0">
+<Illustration ID="Page1_Block1" HEIGHT="3940" WIDTH="2612" VPOS="0" HPOS="0"><Shape><Polygon POINTS="0,1 2634,1 2634,3954 0,3954 0,1"/></Shape></Illustration>
+<ComposedBlock ID="Page1_Block2" HEIGHT="2832" WIDTH="1788" VPOS="498" HPOS="127" TYPE="separatorsBox"><GraphicalElement ID="Page1_Block3" HEIGHT="27" WIDTH="1748" VPOS="498" HPOS="147"/><GraphicalElement ID="Page1_Block4" HEIGHT="12" WIDTH="1766" VPOS="3314" HPOS="144"/><GraphicalElement ID="Page1_Block5" HEIGHT="2801" WIDTH="13" VPOS="525" HPOS="137"/><GraphicalElement ID="Page1_Block6" HEIGHT="2821" WIDTH="21" VPOS="499" HPOS="1892"/><GraphicalElement ID="Page1_Block7" HEIGHT="1" WIDTH="68" VPOS="3324" HPOS="451"/></ComposedBlock><GraphicalElement ID="Page1_Block8" HEIGHT="29" WIDTH="1727" VPOS="516" HPOS="153"/><GraphicalElement ID="Page1_Block9" HEIGHT="14" WIDTH="232" VPOS="2538" HPOS="731"/><GraphicalElement ID="Page1_Block10" HEIGHT="8" WIDTH="144" VPOS="2569" HPOS="736"/><GraphicalElement ID="Page1_Block11" HEIGHT="11" WIDTH="193" VPOS="2597" HPOS="798"/><GraphicalElement ID="Page1_Block12" HEIGHT="5" WIDTH="107" VPOS="2636" HPOS="648"/><GraphicalElement ID="Page1_Block13" HEIGHT="11" WIDTH="297" VPOS="3031" HPOS="459"/><GraphicalElement ID="Page1_Block14" HEIGHT="18" WIDTH="874" VPOS="3038" HPOS="528"/><GraphicalElement ID="Page1_Block15" HEIGHT="6" WIDTH="121" VPOS="3050" HPOS="1402"/><GraphicalElement ID="Page1_Block16" HEIGHT="11" WIDTH="608" VPOS="3291" HPOS="157"/><GraphicalElement ID="Page1_Block17" HEIGHT="9" WIDTH="696" VPOS="3291" HPOS="1204"/>
+<Illustration ID="Page1_Block18" HEIGHT="492" WIDTH="1616" VPOS="1676" HPOS="215"><Shape><Polygon POINTS="228,1686 1841,1686 1841,2169 228,2169 228,1686"/></Shape></Illustration>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

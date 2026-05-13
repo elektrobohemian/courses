@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2017-03-22</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY FineReader Engine</softwareName><softwareVersion>11</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles><TextStyle ID="font0" FONTFAMILY="Times New Roman" FONTSIZE="5"/><TextStyle ID="font1" FONTFAMILY="Times New Roman" FONTSIZE="8"/><TextStyle ID="font2" FONTFAMILY="Times New Roman" FONTSIZE="10"/><TextStyle ID="font3" FONTFAMILY="Times New Roman" FONTSIZE="11"/><TextStyle ID="font4" FONTFAMILY="Times New Roman" FONTSIZE="13"/><TextStyle ID="font5" FONTFAMILY="Times New Roman" FONTSIZE="15"/><TextStyle ID="font6" FONTFAMILY="Times New Roman" FONTSIZE="17"/><TextStyle ID="font7" FONTFAMILY="Times New Roman" FONTSIZE="36"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3940" WIDTH="2612">
+<TopMargin HEIGHT="525" WIDTH="2612" VPOS="0" HPOS="0">
+</TopMargin>
+<LeftMargin HEIGHT="2680" WIDTH="228" VPOS="525" HPOS="0">
+</LeftMargin>
+<RightMargin HEIGHT="2680" WIDTH="699" VPOS="525" HPOS="1913">
+</RightMargin>
+<BottomMargin HEIGHT="735" WIDTH="2612" VPOS="3205" HPOS="0">
+</BottomMargin>
+<PrintSpace HEIGHT="2680" WIDTH="1685" VPOS="525" HPOS="228">
+<TextBlock ID="Page1_Block1" HEIGHT="110" WIDTH="763" VPOS="525" HPOS="705" language="de" STYLEREFS="font6">
+<TextLine HEIGHT="94" WIDTH="748" VPOS="533" HPOS="713"><String WC="0.473333329" CONTENT="Großes" HEIGHT="94" WIDTH="280" VPOS="533" HPOS="713"/><SP WIDTH="50" VPOS="535" HPOS="994"/><String WC="0.5146153569" CONTENT="illustriertes" HEIGHT="88" WIDTH="416" VPOS="533" HPOS="1045"/></TextLine>
+</TextBlock>
+<ComposedBlock ID="Page1_Block2" HEIGHT="264" WIDTH="1586" VPOS="648" HPOS="314" TYPE="container"><Illustration ID="Page1_Block3" HEIGHT="202" WIDTH="144" VPOS="708" HPOS="314"/>
+<TextBlock ID="Page1_Block4" HEIGHT="264" WIDTH="1438" VPOS="648" HPOS="462" language="de" STYLEREFS="font7">
+<TextLine HEIGHT="208" WIDTH="1428" VPOS="698" HPOS="466"><String STYLE="bold" WC="0.3725000024" CONTENT="pielbuch" HEIGHT="200" WIDTH="500" VPOS="706" HPOS="466"/><SP WIDTH="74" VPOS="706" HPOS="967"/><String STYLE="bold" WC="0.3600000143" CONTENT="für" HEIGHT="196" WIDTH="204" VPOS="710" HPOS="1042"/><SP WIDTH="78" VPOS="702" HPOS="1247"/><String STYLE="bold" WC="0.687142849" CONTENT="Mnsken." HEIGHT="208" WIDTH="568" VPOS="698" HPOS="1326"/></TextLine>
+</TextBlock></ComposedBlock>
+<ComposedBlock ID="Page1_Block5" HEIGHT="2036" WIDTH="1685" VPOS="1169" HPOS="228" TYPE="container">
+<TextBlock ID="Page1_Block6" HEIGHT="1419" WIDTH="1619" VPOS="1169" HPOS="294" language="de">
+<TextLine HEIGHT="58" WIDTH="868" VPOS="1177" HPOS="672"><String STYLEREFS="font2" WC="0.4875000119" CONTENT="Tine" HEIGHT="47" WIDTH="100" VPOS="1177" HPOS="672"/><SP WIDTH="29" VPOS="1178" HPOS="773"/><String STYLEREFS="font2" WC="0.6085714102" CONTENT="Auswahl" HEIGHT="57" WIDTH="218" VPOS="1178" HPOS="803"/><SP WIDTH="29" VPOS="1178" HPOS="1022"/><String STYLEREFS="font2" WC="0.7133333087" CONTENT="der" HEIGHT="45" WIDTH="69" VPOS="1178" HPOS="1052"/><SP WIDTH="32" VPOS="1179" HPOS="1122"/><String STYLEREFS="font2" WC="0.2611111104" CONTENT="schönsten" HEIGHT="56" WIDTH="195" VPOS="1178" HPOS="1155"/><SP WIDTH="31" VPOS="1178" HPOS="1351"/><String STYLEREFS="font2" WC="0.5842857361" CONTENT="Spiele»" HEIGHT="57" WIDTH="157" VPOS="1177" HPOS="1383"/></TextLine>
+<TextLine HEIGHT="59" WIDTH="1603" VPOS="1306" HPOS="302"><String STYLEREFS="font2" WC="0.4690000117" CONTENT="anregender" HEIGHT="56" WIDTH="250" VPOS="1309" HPOS="302"/><SP WIDTH="29" VPOS="1322" HPOS="553"/><String STYLEREFS="font2" WC="0.8766666651" CONTENT="und" HEIGHT="44" WIDTH="87" VPOS="1310" HPOS="583"/><SP WIDTH="29" VPOS="1310" HPOS="671"/><String STYLEREFS="font2" WC="0.5928571224" CONTENT="unterhaltender" HEIGHT="55" WIDTH="331" VPOS="1308" HPOS="701"/><SP WIDTH="30" VPOS="1307" HPOS="1033"/><String STYLEREFS="font2" WC="0.4633333385" CONTENT="Deschästigungen" HEIGHT="58" WIDTH="368" VPOS="1307" HPOS="1064"/><SP WIDTH="30" VPOS="1323" HPOS="1433"/><String STYLEREFS="font2" WC="0.4366666675" CONTENT="und" HEIGHT="45" WIDTH="87" VPOS="1309" HPOS="1464"/><SP WIDTH="31" VPOS="1307" HPOS="1552"/><String STYLEREFS="font2" WC="0.4130769372" CONTENT="Delustigungen" HEIGHT="58" WIDTH="321" VPOS="1306" HPOS="1584"/></TextLine>
+<TextLine HEIGHT="50" WIDTH="681" VPOS="1438" HPOS="767"><String STYLEREFS="font2" WC="0.400000006" CONTENT="im" HEIGHT="48" WIDTH="60" VPOS="1438" HPOS="767"/><SP WIDTH="27" VPOS="1440" HPOS="828"/><String STYLEREFS="font2" WC="0.4449999928" CONTENT="Freien" HEIGHT="48" WIDTH="149" VPOS="1440" HPOS="856"/><SP WIDTH="31" VPOS="1454" HPOS="1006"/><String STYLEREFS="font2" WC="0.5233333111" CONTENT="und" HEIGHT="45" WIDTH="87" VPOS="1440" HPOS="1038"/><SP WIDTH="29" VPOS="1440" HPOS="1126"/><String STYLEREFS="font2" WC="0.3400000036" CONTENT="im" HEIGHT="45" WIDTH="59" VPOS="1440" HPOS="1156"/><SP WIDTH="29" VPOS="1438" HPOS="1216"/><String STYLEREFS="font2" WC="0.5271428823" CONTENT="Zimmer." HEIGHT="50" WIDTH="202" VPOS="1438" HPOS="1246"/></TextLine>
+<TextLine HEIGHT="38" WIDTH="83" VPOS="1637" HPOS="1063" STYLEREFS="font3"><String STYLE="bold" WC="0.2899999917" CONTENT="von" HEIGHT="38" WIDTH="83" VPOS="1637" HPOS="1063"/></TextLine>
+<TextLine HEIGHT="68" WIDTH="822" VPOS="1825" HPOS="695" STYLEREFS="font5"><String STYLE="bold" WC="0.400000006" CONTENT="On." HEIGHT="63" WIDTH="96" VPOS="1825" HPOS="695"/><SP WIDTH="39" VPOS="1827" HPOS="792"/><String STYLE="bold" WC="1." CONTENT="Jan" HEIGHT="59" WIDTH="115" VPOS="1827" HPOS="832"/><SP WIDTH="36" VPOS="1828" HPOS="948"/><String STYLE="bold" WC="0.5500000119" CONTENT="Daniel" HEIGHT="57" WIDTH="200" VPOS="1828" HPOS="985"/><SP WIDTH="37" VPOS="1829" HPOS="1186"/><String STYLE="bold" WC="0.4344444573" CONTENT="Georgens." HEIGHT="64" WIDTH="293" VPOS="1829" HPOS="1224"/></TextLine>
+<TextLine HEIGHT="61" WIDTH="1589" VPOS="2110" HPOS="304"><String STYLEREFS="font2" WC="0.2666666806" CONTENT="Mit" HEIGHT="45" WIDTH="103" VPOS="2110" HPOS="304"/><SP WIDTH="35" VPOS="2111" HPOS="408"/><String STYLEREFS="font2" WC="0.6222222447" CONTENT="Farbendruckdildern" HEIGHT="48" WIDTH="564" VPOS="2110" HPOS="444"/><SP WIDTH="36" VPOS="2126" HPOS="1009"/><String STYLEREFS="font2" WC="0.5033333302" CONTENT="und" HEIGHT="45" WIDTH="101" VPOS="2112" HPOS="1046"/><SP WIDTH="39" VPOS="2111" HPOS="1148"/><String STYLEREFS="font2" WC="0.3100000024" CONTENT="423" HEIGHT="47" WIDTH="85" VPOS="2111" HPOS="1188"/><SP WIDTH="36" VPOS="2113" HPOS="1274"/><String STYLEREFS="font2" WC="0.4810526371" CONTENT="Kriginal;eichnungen" HEIGHT="58" WIDTH="582" VPOS="2113" HPOS="1311"/></TextLine>
+<TextLine HEIGHT="22" WIDTH="61" VPOS="2211" HPOS="1066" STYLEREFS="font1"><String STYLE="bold" WC="0.6100000143" CONTENT="von" HEIGHT="22" WIDTH="61" VPOS="2211" HPOS="1066"/></TextLine>
+<TextLine HEIGHT="77" WIDTH="495" VPOS="2279" HPOS="847" STYLEREFS="font5"><String STYLE="bold" WC="0.6374999881" CONTENT="Paul" HEIGHT="77" WIDTH="143" VPOS="2279" HPOS="847"/><SP WIDTH="43" VPOS="2279" HPOS="991"/><String STYLE="bold" WC="0.5666666627" CONTENT="Wendling." HEIGHT="76" WIDTH="307" VPOS="2280" HPOS="1035"/></TextLine>
+<TextLine HEIGHT="65" WIDTH="1044" VPOS="2498" HPOS="573" STYLEREFS="font4"><String WC="0.8299999833" CONTENT="Neue" HEIGHT="52" WIDTH="173" VPOS="2498" HPOS="573"/><SP WIDTH="43" VPOS="2500" HPOS="747"/><String WC="0.4914285839" CONTENT="durrhgefrtzene" HEIGHT="62" WIDTH="487" VPOS="2500" HPOS="791"/><SP WIDTH="43" VPOS="2503" HPOS="1279"/><String WC="0.5512499809" CONTENT="Auflage." HEIGHT="60" WIDTH="294" VPOS="2503" HPOS="1323"/></TextLine>
+</TextBlock>
+<ComposedBlock ID="Page1_Block7" HEIGHT="479" WIDTH="956" VPOS="2576" HPOS="228" TYPE="container"><Illustration ID="Page1_Block8" HEIGHT="425" WIDTH="956" VPOS="2576" HPOS="228"/>
+<TextBlock ID="Page1_Block9" HEIGHT="61" WIDTH="131" VPOS="2994" HPOS="242" language="de" STYLEREFS="font0">
+<TextLine HEIGHT="29" WIDTH="84" VPOS="3005" HPOS="275"><String WC="0.4774999917" CONTENT="l&apos;.L" HEIGHT="29" WIDTH="33" VPOS="3005" HPOS="275"/><SP WIDTH="13" VPOS="3014" HPOS="309"/><String WC="1." CONTENT="-" HEIGHT="2" WIDTH="5" VPOS="3024" HPOS="323"/><SP WIDTH="22" VPOS="3010" HPOS="329"/><String WC="1." CONTENT="&apos;" HEIGHT="9" WIDTH="7" VPOS="3010" HPOS="352"/></TextLine>
+</TextBlock></ComposedBlock>
+<TextBlock ID="Page1_Block10" HEIGHT="155" WIDTH="1023" VPOS="3050" HPOS="589" language="de" STYLEREFS="font3">
+<TextLine HEIGHT="70" WIDTH="1006" VPOS="3058" HPOS="597"><String WC="0.5249999762" CONTENT="Schreiter&apos;sche" HEIGHT="59" WIDTH="365" VPOS="3058" HPOS="597"/><SP WIDTH="33" VPOS="3062" HPOS="963"/><String WC="0.5378947258" CONTENT="Verlagsbuchhandlung" HEIGHT="66" WIDTH="606" VPOS="3062" HPOS="997"/></TextLine>
+<TextLine HEIGHT="50" WIDTH="368" VPOS="3147" HPOS="915" STYLEREFS="font4"><String WC="0.5333333611" CONTENT="Berlin" HEIGHT="50" WIDTH="160" VPOS="3147" HPOS="915"/><SP WIDTH="31" VPOS="3149" HPOS="1076"/><String WC="1." CONTENT="»" HEIGHT="44" WIDTH="43" VPOS="3149" HPOS="1108"/><SP WIDTH="15" VPOS="3149" HPOS="1152"/><String WC="1." CONTENT="." HEIGHT="10" WIDTH="10" VPOS="3183" HPOS="1168"/><SP WIDTH="27" VPOS="3150" HPOS="1179"/><String WC="0.9133333564" CONTENT="35." HEIGHT="45" WIDTH="76" VPOS="3150" HPOS="1207"/></TextLine>
+</TextBlock></ComposedBlock><GraphicalElement ID="Page1_Block11" HEIGHT="4" WIDTH="142" VPOS="1993" HPOS="1022"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v2#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v2# http://www.loc.gov/standards/alto/alto-v2.0.xsd">
+<Description>
+<MeasurementUnit>pixel</MeasurementUnit>
+<OCRProcessing ID="IdOcr"><ocrProcessingStep><processingDateTime>2017-03-22</processingDateTime><processingSoftware><softwareCreator>ABBYY</softwareCreator><softwareName>ABBYY FineReader Engine</softwareName><softwareVersion>11</softwareVersion></processingSoftware></ocrProcessingStep></OCRProcessing>
+</Description>
+<Styles><TextStyle ID="font0" FONTFAMILY="Times New Roman" FONTSIZE="10"/><TextStyle ID="font1" FONTFAMILY="Times New Roman" FONTSIZE="17"/>
+</Styles>
+<Layout>
+<Page ID="Page1" PHYSICAL_IMG_NR="1" HEIGHT="3940" WIDTH="2612">
+<TopMargin HEIGHT="524" WIDTH="2612" VPOS="0" HPOS="0">
+</TopMargin>
+<LeftMargin HEIGHT="984" WIDTH="319" VPOS="524" HPOS="0">
+</LeftMargin>
+<RightMargin HEIGHT="984" WIDTH="659" VPOS="524" HPOS="1953">
+</RightMargin>
+<BottomMargin HEIGHT="2432" WIDTH="2612" VPOS="1508" HPOS="0">
+</BottomMargin>
+<PrintSpace HEIGHT="984" WIDTH="1634" VPOS="524" HPOS="319">
+<TextBlock ID="Page1_Block1" HEIGHT="112" WIDTH="769" VPOS="526" HPOS="735" language="de" STYLEREFS="font1"><Shape><Polygon POINTS="737,532 1506,532 1506,642 737,642 737,532"/></Shape>
+<TextLine HEIGHT="96" WIDTH="754" VPOS="535" HPOS="743"><String WC="0.4466666579" CONTENT="Großes" HEIGHT="95" WIDTH="282" VPOS="535" HPOS="743"/><SP WIDTH="52" VPOS="538" HPOS="1026"/><String WC="0.4438461661" CONTENT="illustriertes" HEIGHT="89" WIDTH="418" VPOS="536" HPOS="1079"/></TextLine>
+</TextBlock>
+<Illustration ID="Page1_Block2" HEIGHT="215" WIDTH="663" VPOS="703" HPOS="336"><Shape><Polygon POINTS="339,711 1002,711 1002,924 339,924 339,711"/></Shape></Illustration><Illustration ID="Page1_Block3" HEIGHT="201" WIDTH="207" VPOS="711" HPOS="1073"/>
+<Illustration ID="Page1_Block4" HEIGHT="226" WIDTH="576" VPOS="701" HPOS="1358"><Shape><Polygon POINTS="1361,705 1937,705 1937,929 1361,929 1361,705"/></Shape></Illustration>
+<TextBlock ID="Page1_Block5" HEIGHT="336" WIDTH="1632" VPOS="1172" HPOS="319" language="de"><Shape><Polygon POINTS="324,1180 1955,1180 1955,1510 324,1510 324,1180"/></Shape>
+<TextLine HEIGHT="61" WIDTH="875" VPOS="1181" HPOS="700"><String STYLEREFS="font0" WC="0.2720000148" CONTENT="(Eine" HEIGHT="48" WIDTH="102" VPOS="1182" HPOS="700"/><SP WIDTH="29" VPOS="1183" HPOS="803"/><String STYLEREFS="font0" WC="0.6728571653" CONTENT="Auswahl" HEIGHT="58" WIDTH="220" VPOS="1183" HPOS="833"/><SP WIDTH="30" VPOS="1185" HPOS="1054"/><String STYLEREFS="font0" WC="0.3466666639" CONTENT="5er" HEIGHT="45" WIDTH="69" VPOS="1185" HPOS="1085"/><SP WIDTH="32" VPOS="1185" HPOS="1155"/><String STYLEREFS="font0" WC="0.3466666639" CONTENT="schönsten" HEIGHT="57" WIDTH="196" VPOS="1184" HPOS="1188"/><SP WIDTH="32" VPOS="1186" HPOS="1385"/><String STYLEREFS="font0" WC="0.5371428728" CONTENT="Spiele»" HEIGHT="57" WIDTH="157" VPOS="1184" HPOS="1418"/></TextLine>
+<TextLine HEIGHT="65" WIDTH="1615" VPOS="1311" HPOS="327"><String STYLEREFS="font0" WC="0.6560000181" CONTENT="anregender" HEIGHT="58" WIDTH="252" VPOS="1313" HPOS="327"/><SP WIDTH="29" VPOS="1328" HPOS="580"/><String STYLEREFS="font0" WC="0.6200000048" CONTENT="und" HEIGHT="45" WIDTH="88" VPOS="1315" HPOS="610"/><SP WIDTH="30" VPOS="1315" HPOS="699"/><String STYLEREFS="font0" WC="0.687857151" CONTENT="unterhaltender" HEIGHT="58" WIDTH="333" VPOS="1313" HPOS="730"/><SP WIDTH="30" VPOS="1315" HPOS="1064"/><String STYLEREFS="font0" WC="0.6073333621" CONTENT="Beschäftigungen" HEIGHT="58" WIDTH="371" VPOS="1315" HPOS="1095"/><SP WIDTH="30" VPOS="1332" HPOS="1467"/><String STYLEREFS="font0" WC="0.3700000048" CONTENT="und" HEIGHT="46" WIDTH="87" VPOS="1317" HPOS="1498"/><SP WIDTH="32" VPOS="1315" HPOS="1586"/><String STYLEREFS="font0" WC="0.5269230604" CONTENT="Belustigungen" HEIGHT="58" WIDTH="323" VPOS="1316" HPOS="1619"/></TextLine>
+<TextLine HEIGHT="53" WIDTH="685" VPOS="1445" HPOS="797"><String STYLEREFS="font0" WC="0.349999994" CONTENT="im" HEIGHT="48" WIDTH="59" VPOS="1445" HPOS="797"/><SP WIDTH="28" VPOS="1448" HPOS="857"/><String STYLEREFS="font0" WC="0.8466666937" CONTENT="Freien" HEIGHT="49" WIDTH="151" VPOS="1448" HPOS="886"/><SP WIDTH="30" VPOS="1462" HPOS="1038"/><String STYLEREFS="font0" WC="0.4799999893" CONTENT="und" HEIGHT="45" WIDTH="88" VPOS="1448" HPOS="1069"/><SP WIDTH="29" VPOS="1448" HPOS="1158"/><String STYLEREFS="font0" WC="0.4799999893" CONTENT="im" HEIGHT="45" WIDTH="60" VPOS="1448" HPOS="1188"/><SP WIDTH="29" VPOS="1447" HPOS="1249"/><String STYLEREFS="font0" WC="0.6085714102" CONTENT="Zimmer." HEIGHT="50" WIDTH="203" VPOS="1447" HPOS="1279"/></TextLine>
+</TextBlock><GraphicalElement ID="Page1_Block6" HEIGHT="8" WIDTH="285" VPOS="1034" HPOS="990"/>
+</PrintSpace>
+</Page>
+</Layout>
+</alto>

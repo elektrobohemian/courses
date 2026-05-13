@@ -28,6 +28,7 @@ $$
   previous tutorial based on city names. This notebook compares various agglomerative clustering approaches
   and methods such as _Metaphone_ and _SOUNDEX_.
 - ![Sample dendrogram using SOUNDEX](./img/dendro2.png)
+- [polyglot_db_challenge.ipynb](data_management/polyglot_db_challenge.ipynb) shows the impact of various DB approaches on retrieval performance.
 
 ### AI Risks
 
