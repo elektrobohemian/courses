@@ -27,8 +27,10 @@ $$
 - [clustering_agglom_methods_linguistics.ipynb](data_management/clustering_agglom_methods_linguistics.ipynb) buils on the
   previous tutorial based on city names. This notebook compares various agglomerative clustering approaches
   and methods such as _Metaphone_ and _SOUNDEX_.
-- ![Sample dendrogram using SOUNDEX](./img/dendro2.png)
+![Sample dendrogram using SOUNDEX](./img/dendro2.png)
+
 - [polyglot_db_challenge.ipynb](data_management/polyglot_db_challenge.ipynb) shows the impact of various DB approaches on retrieval performance.
+![Retrieval performance of various DBMS](./img/polyglot_comparison.png)
 
 ### AI Risks
 
